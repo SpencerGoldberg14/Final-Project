@@ -1,0 +1,1286 @@
+EVENT_ID,CZ_NAME_STR,BEGIN_LOCATION,BEGIN_DATE,BEGIN_TIME,EVENT_TYPE,MAGNITUDE,TOR_F_SCALE,DEATHS_DIRECT,INJURIES_DIRECT,DAMAGE_PROPERTY_NUM,DAMAGE_CROPS_NUM,STATE_ABBR,CZ_TIMEZONE,MAGNITUDE_TYPE,EPISODE_ID,CZ_TYPE,CZ_FIPS,WFO,INJURIES_INDIRECT,DEATHS_INDIRECT,SOURCE,FLOOD_CAUSE,TOR_LENGTH,TOR_WIDTH,BEGIN_RANGE,BEGIN_AZIMUTH,END_RANGE,END_AZIMUTH,END_LOCATION,END_DATE,END_TIME,BEGIN_LAT,BEGIN_LON,END_LAT,END_LON,EVENT_NARRATIVE,EPISODE_NARRATIVE,ABSOLUTE_ROWNUMBER
+5562358,NORTHWEST SUFFOLK (ZONE), ,02/03/1996,0,Heavy Snow, , ,0,0,0,0,NY,EST, ,2040606,Z,78,OKX,0,0, , , , , , , , , ,02/03/1996,800, , , , ,"","A low pressure system moved north along the Atlantic Coast and produced heavy snow across the area.  The snow became very heavy after midnight.  Accumulations ranged from 7 to 10 inches.",1
+5562361,SOUTHEAST SUFFOLK (ZONE), ,02/03/1996,0,Heavy Snow, , ,0,0,0,0,NY,EST, ,2040606,Z,81,OKX,0,0, , , , , , , , , ,02/03/1996,800, , , , ,"","A low pressure system moved north along the Atlantic Coast and produced heavy snow across the area.  The snow became very heavy after midnight.  Accumulations ranged from 7 to 10 inches.",2
+5562360,SOUTHWEST SUFFOLK (ZONE), ,02/03/1996,0,Heavy Snow, , ,0,0,0,0,NY,EST, ,2040606,Z,80,OKX,0,0, , , , , , , , , ,02/03/1996,800, , , , ,"","A low pressure system moved north along the Atlantic Coast and produced heavy snow across the area.  The snow became very heavy after midnight.  Accumulations ranged from 7 to 10 inches.",3
+5562359,NORTHEAST SUFFOLK (ZONE), ,02/03/1996,0,Heavy Snow, , ,0,0,0,0,NY,EST, ,2040606,Z,79,OKX,0,0, , , , , , , , , ,02/03/1996,800, , , , ,"","A low pressure system moved north along the Atlantic Coast and produced heavy snow across the area.  The snow became very heavy after midnight.  Accumulations ranged from 7 to 10 inches.",4
+5562387,NORTHEAST SUFFOLK (ZONE), ,02/16/1996,1800,Heavy Snow, , ,0,0,0,0,NY,EST, ,2040609,Z,79,OKX,0,0, , , , , , , , , ,02/17/1996,600, , , , ,"","A low pressure system moved north along the Atlantic Coast and produced heavy snow across the region.  The snow became very heavy during the evening and overnight periods.  Accumulations ranged from 6 to 12 inches.",5
+5562386,NORTHWEST SUFFOLK (ZONE), ,02/16/1996,1800,Heavy Snow, , ,0,0,0,0,NY,EST, ,2040609,Z,78,OKX,0,0, , , , , , , , , ,02/17/1996,600, , , , ,"","A low pressure system moved north along the Atlantic Coast and produced heavy snow across the region.  The snow became very heavy during the evening and overnight periods.  Accumulations ranged from 6 to 12 inches.",6
+5562388,SOUTHWEST SUFFOLK (ZONE), ,02/16/1996,1800,Heavy Snow, , ,0,0,0,0,NY,EST, ,2040609,Z,80,OKX,0,0, , , , , , , , , ,02/17/1996,600, , , , ,"","A low pressure system moved north along the Atlantic Coast and produced heavy snow across the region.  The snow became very heavy during the evening and overnight periods.  Accumulations ranged from 6 to 12 inches.",7
+5560161,SOUTHEAST SUFFOLK (ZONE), ,03/02/1996,700,Heavy Snow, , ,0,0,0,0,NY,EST, ,2040913,Z,81,OKX,0,0, , , , , , , , , ,03/02/1996,1800, , , , ,"","A low pressure system developed off the North Carolina Coast and moved northeast.  It passed east of Long Island during the afternoon and east of Cape Cod during the evening.  Snowfall accumulations were fairly uniform from 6 to 7 inches.",8
+5561216,NORTHWEST SUFFOLK (ZONE), ,03/02/1996,700,Heavy Snow, , ,0,0,0,0,NY,EST, ,2040913,Z,78,OKX,0,0, , , , , , , , , ,03/02/1996,1800, , , , ,"","A low pressure system developed off the North Carolina Coast and moved northeast.  It passed east of Long Island during the afternoon and east of Cape Cod during the evening.  Snowfall accumulations were fairly uniform from 6 to 7 inches.",9
+5561217,NORTHEAST SUFFOLK (ZONE), ,03/02/1996,700,Heavy Snow, , ,0,0,0,0,NY,EST, ,2040913,Z,79,OKX,0,0, , , , , , , , , ,03/02/1996,1800, , , , ,"","A low pressure system developed off the North Carolina Coast and moved northeast.  It passed east of Long Island during the afternoon and east of Cape Cod during the evening.  Snowfall accumulations were fairly uniform from 6 to 7 inches.",10
+5560160,SOUTHWEST SUFFOLK (ZONE), ,03/02/1996,700,Heavy Snow, , ,0,0,0,0,NY,EST, ,2040913,Z,80,OKX,0,0, , , , , , , , , ,03/02/1996,1800, , , , ,"","A low pressure system developed off the North Carolina Coast and moved northeast.  It passed east of Long Island during the afternoon and east of Cape Cod during the evening.  Snowfall accumulations were fairly uniform from 6 to 7 inches.",11
+5579834,NORTHWEST SUFFOLK (ZONE), ,04/09/1996,1500,Heavy Snow, , ,0,0,0,0,NY,EST, ,2053640,Z,78,OKX,0,0, , , , , , , , , ,04/10/1996,1100, , , , ,"","A low pressure system formed off the North Carolina Coast during Tuesday morning, April 9th.  It intensified as it moved slowly northeast, passing near Cape Cod, MA around 7 am Wednesday morning, April 10th and northeast of Maine during Thursday morning.
+
+With cold air in place, this system spread wet snow across Southeast NY (and Northeast NJ).  Heavy wet snow "downed" numerous trees and power lines across Long Island (Nassau and Suffolk Counties).
+
+West of Nassau County, NY, less than 5 inches of snow fell with 0.7 inches measured at Newark Airport, NJ and Central Park, NY.  Here are some snowfall ranges:
+
+For Nassau County, NY - from 4.5 inches at Merrick and Manhasset to 9 inches in Syosset.
+
+For Suffolk County, NY - from 6.0 inches at Plum Island to 12.5 inches at the NWS Forecast Office at Brookhaven National Lab.",12
+5579835,SOUTHWEST SUFFOLK (ZONE), ,04/09/1996,1500,Heavy Snow, , ,0,0,0,0,NY,EST, ,2053640,Z,80,OKX,0,0, , , , , , , , , ,04/10/1996,1100, , , , ,"","A low pressure system formed off the North Carolina Coast during Tuesday morning, April 9th.  It intensified as it moved slowly northeast, passing near Cape Cod, MA around 7 am Wednesday morning, April 10th and northeast of Maine during Thursday morning.
+
+With cold air in place, this system spread wet snow across Southeast NY (and Northeast NJ).  Heavy wet snow "downed" numerous trees and power lines across Long Island (Nassau and Suffolk Counties).
+
+West of Nassau County, NY, less than 5 inches of snow fell with 0.7 inches measured at Newark Airport, NJ and Central Park, NY.  Here are some snowfall ranges:
+
+For Nassau County, NY - from 4.5 inches at Merrick and Manhasset to 9 inches in Syosset.
+
+For Suffolk County, NY - from 6.0 inches at Plum Island to 12.5 inches at the NWS Forecast Office at Brookhaven National Lab.",13
+5579836,NORTHEAST SUFFOLK (ZONE), ,04/09/1996,1600,Heavy Snow, , ,0,0,0,0,NY,EST, ,2053640,Z,79,OKX,0,0, , , , , , , , , ,04/10/1996,1200, , , , ,"","A low pressure system formed off the North Carolina Coast during Tuesday morning, April 9th.  It intensified as it moved slowly northeast, passing near Cape Cod, MA around 7 am Wednesday morning, April 10th and northeast of Maine during Thursday morning.
+
+With cold air in place, this system spread wet snow across Southeast NY (and Northeast NJ).  Heavy wet snow "downed" numerous trees and power lines across Long Island (Nassau and Suffolk Counties).
+
+West of Nassau County, NY, less than 5 inches of snow fell with 0.7 inches measured at Newark Airport, NJ and Central Park, NY.  Here are some snowfall ranges:
+
+For Nassau County, NY - from 4.5 inches at Merrick and Manhasset to 9 inches in Syosset.
+
+For Suffolk County, NY - from 6.0 inches at Plum Island to 12.5 inches at the NWS Forecast Office at Brookhaven National Lab.",14
+5579837,SOUTHEAST SUFFOLK (ZONE), ,04/09/1996,1600,Heavy Snow, , ,0,0,0,0,NY,EST, ,2053640,Z,81,OKX,0,0, , , , , , , , , ,04/10/1996,1200, , , , ,"","A low pressure system formed off the North Carolina Coast during Tuesday morning, April 9th.  It intensified as it moved slowly northeast, passing near Cape Cod, MA around 7 am Wednesday morning, April 10th and northeast of Maine during Thursday morning.
+
+With cold air in place, this system spread wet snow across Southeast NY (and Northeast NJ).  Heavy wet snow "downed" numerous trees and power lines across Long Island (Nassau and Suffolk Counties).
+
+West of Nassau County, NY, less than 5 inches of snow fell with 0.7 inches measured at Newark Airport, NJ and Central Park, NY.  Here are some snowfall ranges:
+
+For Nassau County, NY - from 4.5 inches at Merrick and Manhasset to 9 inches in Syosset.
+
+For Suffolk County, NY - from 6.0 inches at Plum Island to 12.5 inches at the NWS Forecast Office at Brookhaven National Lab.",15
+5696293,SOUTHEAST SUFFOLK (ZONE), ,02/25/1999,1020,Heavy Snow, , ,0,0,0,0,NY,EST, ,1501193,Z,81,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/25/1999,1020, , , , ,"","
+With a cold high pressure system covering New England, as a strong low pressure system passed east of Long Island, it produced heavy snow.
+
+Light snow began around 11 pm on February 24th near Montauk and became heavier as it slowly spread west across Suffolk County.  The heaviest snow fell across the south fork.  Snowfall amounts ranged from 6 inches at Patchogue to 13.5 inches at Montauk.  A spotter from East Hampton measured 10 inches.",16
+5696294,NORTHEAST SUFFOLK (ZONE), ,02/25/1999,1220,Heavy Snow, , ,0,0,0,0,NY,EST, ,1501193,Z,79,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/25/1999,1220, , , , ,"","
+With a cold high pressure system covering New England, as a strong low pressure system passed east of Long Island, it produced heavy snow.
+
+Light snow began around 11 pm on February 24th near Montauk and became heavier as it slowly spread west across Suffolk County.  The heaviest snow fell across the south fork.  Snowfall amounts ranged from 6 inches at Patchogue to 13.5 inches at Montauk.  A spotter from East Hampton measured 10 inches.",17
+5696295,SOUTHWEST SUFFOLK (ZONE), ,02/26/1999,500,Heavy Snow, , ,0,0,0,0,NY,EST, ,1501193,Z,80,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/26/1999,500, , , , ,"","
+With a cold high pressure system covering New England, as a strong low pressure system passed east of Long Island, it produced heavy snow.
+
+Light snow began around 11 pm on February 24th near Montauk and became heavier as it slowly spread west across Suffolk County.  The heaviest snow fell across the south fork.  Snowfall amounts ranged from 6 inches at Patchogue to 13.5 inches at Montauk.  A spotter from East Hampton measured 10 inches.",18
+5700891,NORTHEAST SUFFOLK (ZONE), ,03/15/1999,330,Heavy Snow, , ,0,0,0,0,NY,EST, ,2408175,Z,79,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,03/15/1999,330, , , , ,"","
+With cold air in place,  a low pressure system developed over the Gulf Coast States on Saturday, March 13th.  As the low slowly intensified and moved northeast toward the Mid-Atlantic Coast, it spread precipitation northeast across the area.  Light rain quickly changed to wet snow during the afternoon of March 14th.  The wet snow became heavy overnight as the low approached the Mid-Atlantic States.  Snowfall amounts generally ranged from 6 to 11 inches across the lower Hudson Valley and Long Island.  Heavy wet snow downed many tree limbs and power lines across the region.
+
+Here are selected snowfall amounts:
+
+In Orange County, 9 inches were measured at Chester and Warwick.
+
+In Putnam County, amounts ranged from 6 to 9 inches.
+
+In Rockland County, 9 inches was measured at South Nyack.
+
+In Nassau County, amounts ranged from 6 inches at Oceanside, Lynbrook, Mineola, and Hicksville to 7 inches at Merrick and East Norwich.
+
+In Suffolk County, amounts ranged from 6 inches at Copiague to 11 inches at Kings Park.
+
+In Westchester County, amounts ranged from 6 inches at White Plains to 10 inches at Yorktown Heights.",19
+5700890,NORTHWEST SUFFOLK (ZONE), ,03/15/1999,330,Heavy Snow, , ,0,0,0,0,NY,EST, ,2408175,Z,78,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,03/15/1999,330, , , , ,"","
+With cold air in place,  a low pressure system developed over the Gulf Coast States on Saturday, March 13th.  As the low slowly intensified and moved northeast toward the Mid-Atlantic Coast, it spread precipitation northeast across the area.  Light rain quickly changed to wet snow during the afternoon of March 14th.  The wet snow became heavy overnight as the low approached the Mid-Atlantic States.  Snowfall amounts generally ranged from 6 to 11 inches across the lower Hudson Valley and Long Island.  Heavy wet snow downed many tree limbs and power lines across the region.
+
+Here are selected snowfall amounts:
+
+In Orange County, 9 inches were measured at Chester and Warwick.
+
+In Putnam County, amounts ranged from 6 to 9 inches.
+
+In Rockland County, 9 inches was measured at South Nyack.
+
+In Nassau County, amounts ranged from 6 inches at Oceanside, Lynbrook, Mineola, and Hicksville to 7 inches at Merrick and East Norwich.
+
+In Suffolk County, amounts ranged from 6 inches at Copiague to 11 inches at Kings Park.
+
+In Westchester County, amounts ranged from 6 inches at White Plains to 10 inches at Yorktown Heights.",20
+5700892,SOUTHWEST SUFFOLK (ZONE), ,03/15/1999,330,Heavy Snow, , ,0,0,0,0,NY,EST, ,2408175,Z,80,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,03/15/1999,330, , , , ,"","
+With cold air in place,  a low pressure system developed over the Gulf Coast States on Saturday, March 13th.  As the low slowly intensified and moved northeast toward the Mid-Atlantic Coast, it spread precipitation northeast across the area.  Light rain quickly changed to wet snow during the afternoon of March 14th.  The wet snow became heavy overnight as the low approached the Mid-Atlantic States.  Snowfall amounts generally ranged from 6 to 11 inches across the lower Hudson Valley and Long Island.  Heavy wet snow downed many tree limbs and power lines across the region.
+
+Here are selected snowfall amounts:
+
+In Orange County, 9 inches were measured at Chester and Warwick.
+
+In Putnam County, amounts ranged from 6 to 9 inches.
+
+In Rockland County, 9 inches was measured at South Nyack.
+
+In Nassau County, amounts ranged from 6 inches at Oceanside, Lynbrook, Mineola, and Hicksville to 7 inches at Merrick and East Norwich.
+
+In Suffolk County, amounts ranged from 6 inches at Copiague to 11 inches at Kings Park.
+
+In Westchester County, amounts ranged from 6 inches at White Plains to 10 inches at Yorktown Heights.",21
+5700895,SOUTHEAST SUFFOLK (ZONE), ,03/15/1999,425,Heavy Snow, , ,0,0,0,0,NY,EST, ,2408175,Z,81,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,03/15/1999,425, , , , ,"","
+With cold air in place,  a low pressure system developed over the Gulf Coast States on Saturday, March 13th.  As the low slowly intensified and moved northeast toward the Mid-Atlantic Coast, it spread precipitation northeast across the area.  Light rain quickly changed to wet snow during the afternoon of March 14th.  The wet snow became heavy overnight as the low approached the Mid-Atlantic States.  Snowfall amounts generally ranged from 6 to 11 inches across the lower Hudson Valley and Long Island.  Heavy wet snow downed many tree limbs and power lines across the region.
+
+Here are selected snowfall amounts:
+
+In Orange County, 9 inches were measured at Chester and Warwick.
+
+In Putnam County, amounts ranged from 6 to 9 inches.
+
+In Rockland County, 9 inches was measured at South Nyack.
+
+In Nassau County, amounts ranged from 6 inches at Oceanside, Lynbrook, Mineola, and Hicksville to 7 inches at Merrick and East Norwich.
+
+In Suffolk County, amounts ranged from 6 inches at Copiague to 11 inches at Kings Park.
+
+In Westchester County, amounts ranged from 6 inches at White Plains to 10 inches at Yorktown Heights.",22
+5167878,NORTHWEST SUFFOLK (ZONE), ,12/30/2000,900,Heavy Snow, , ,0,0,0,0,NY,EST, ,1105306,Z,78,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,12/30/2000,900, , , , ,"","
+A low pressure system rapidly intensified and moved north along the mid Atlantic coast during Saturday December 30th. This produced a wide swath of heavy snow to the northwest of the storm track. Snowfall began between 5 and 7 AM across the area, and fell at intense rates right from the start. Snowfall rates of one to two inches per hour were common. There were also numerous reports of thunder and lightning accompanying the most intense snow bands. Winds also began to increase later Saturday morning, causing some blowing and drifting of snow, which reduced visibilities significantly, and created near blizzard conditions at times in some areas. 
+
+As the low pressure center approached the south shore of Suffolk county early Saturday afternoon, milder air from the Atlantic Ocean wrapped into the storm system, and changed the heavy snow to a mixture of sleet and rain across eastern Suffolk county. This limited snowfall amounts somewhat across eastern Suffolk County.
+
+The low pressure center crossed central Suffolk County during mid afternoon on Saturday, before moving northeast into southern New England later that evening. As the low moved away, the precipitation tapered off across the area. Subfreezing temperatures and gusty winds lingered behind the storm system.
+
+Here are some specific snowfall totals from this storm system:
+
+Orange County: 14 inches at Harriman, to 21 inches at Warwick and Rock Tavern.
+
+Putnam County: 13 inches at Carmel and Brewster.
+
+Rockland County: 15 inches at Airmont, to 18 inches at Suffern.
+
+Westchester County: 13 inches at Mount Kisco, to 16.5 inches at Mamaroneck.
+
+Bronx County: 11 inches.
+
+New York County (Manhattan): 12 inches at Central Park.
+
+Kings County: 12.7 inches at Gravesend.
+
+Queens County: 10 inches at John F. Kennedy International Airport, to 13 inches at LaGuardia Airport and Middle Village.
+
+Richmond County: 12.5 inches at Grymes Hill.
+
+Nassau County: 11 inches at Lynbrook, to 15.6 inches at Oceanside.
+
+Suffolk County: 2.7 inches at Bridgehampton, to 12 inches at Huntington Station, East Northport, and North Lindenhurst.",23
+5233499,NORTHEAST SUFFOLK (ZONE), ,02/05/2001,1930,Heavy Snow, , ,0,0,0,0,NY,EST, ,1111338,Z,79,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/05/2001,1930, , , , ,"","
+On Monday February 5th, a developing low pressure system off the North Carolina coast moved northeast to a position off eastern Long Island by Monday evening. The storm then moved off the New England coast by early Tuesday. The storm spread a swath of rain and wet snow across southeast New York during early Monday. As the low rapidly intensified, colder air was entrained into the storm system. This changed the rain into heavy wet snow by early Monday afternoon across central and eastern Long Island. In addition, another band of heavy wet snow affected portions of the lower Hudson Valley through the afternoon hours.  This second band of snow then moved east and produced additional snow across portions of the New York City area and Long Island into Monday evening, before the snow tapered off from west to east during Monday night.
+
+Due to the rapid rate at which the snow fell, hazardous travel resulted across much of the New York City area and Long Island for the Monday evening commute. 
+
+Here are some specific snowfall totals for this snow event:
+
+For Orange County: 12 inches at Walden and Newburgh, to 22 inches at Monroe.
+
+For Putnam County: 9 inches at Carmel, to 12 inches at Putnam Valley.
+
+For Rockland County: 8 inches at New City and Mounty Ivy, to 14 inches at Suffern.
+
+For Westchester County: 6.7 inches at New Rochelle, to 13 inches at Yorktown Heights.
+
+Across the New York City area: 2 inches at John F. Kennedy International Airport, to 3.5 inches at Central Park, and 4.0 inches at Middle Village in Queens.
+
+For Nassau County: 3 inches at Garden City, to 6 inches at Great Neck and Plainview.
+
+For Suffolk County: 2 inches at Mattituck, to 8 inches at Calverton.",24
+5233501,SOUTHEAST SUFFOLK (ZONE), ,02/05/2001,2000,Heavy Snow, , ,0,0,0,0,NY,EST, ,1111338,Z,81,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/05/2001,2000, , , , ,"","
+On Monday February 5th, a developing low pressure system off the North Carolina coast moved northeast to a position off eastern Long Island by Monday evening. The storm then moved off the New England coast by early Tuesday. The storm spread a swath of rain and wet snow across southeast New York during early Monday. As the low rapidly intensified, colder air was entrained into the storm system. This changed the rain into heavy wet snow by early Monday afternoon across central and eastern Long Island. In addition, another band of heavy wet snow affected portions of the lower Hudson Valley through the afternoon hours.  This second band of snow then moved east and produced additional snow across portions of the New York City area and Long Island into Monday evening, before the snow tapered off from west to east during Monday night.
+
+Due to the rapid rate at which the snow fell, hazardous travel resulted across much of the New York City area and Long Island for the Monday evening commute. 
+
+Here are some specific snowfall totals for this snow event:
+
+For Orange County: 12 inches at Walden and Newburgh, to 22 inches at Monroe.
+
+For Putnam County: 9 inches at Carmel, to 12 inches at Putnam Valley.
+
+For Rockland County: 8 inches at New City and Mounty Ivy, to 14 inches at Suffern.
+
+For Westchester County: 6.7 inches at New Rochelle, to 13 inches at Yorktown Heights.
+
+Across the New York City area: 2 inches at John F. Kennedy International Airport, to 3.5 inches at Central Park, and 4.0 inches at Middle Village in Queens.
+
+For Nassau County: 3 inches at Garden City, to 6 inches at Great Neck and Plainview.
+
+For Suffolk County: 2 inches at Mattituck, to 8 inches at Calverton.",25
+5233498,NORTHWEST SUFFOLK (ZONE), ,02/05/2001,2100,Heavy Snow, , ,0,0,0,0,NY,EST, ,1111338,Z,78,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/05/2001,2100, , , , ,"","
+On Monday February 5th, a developing low pressure system off the North Carolina coast moved northeast to a position off eastern Long Island by Monday evening. The storm then moved off the New England coast by early Tuesday. The storm spread a swath of rain and wet snow across southeast New York during early Monday. As the low rapidly intensified, colder air was entrained into the storm system. This changed the rain into heavy wet snow by early Monday afternoon across central and eastern Long Island. In addition, another band of heavy wet snow affected portions of the lower Hudson Valley through the afternoon hours.  This second band of snow then moved east and produced additional snow across portions of the New York City area and Long Island into Monday evening, before the snow tapered off from west to east during Monday night.
+
+Due to the rapid rate at which the snow fell, hazardous travel resulted across much of the New York City area and Long Island for the Monday evening commute. 
+
+Here are some specific snowfall totals for this snow event:
+
+For Orange County: 12 inches at Walden and Newburgh, to 22 inches at Monroe.
+
+For Putnam County: 9 inches at Carmel, to 12 inches at Putnam Valley.
+
+For Rockland County: 8 inches at New City and Mounty Ivy, to 14 inches at Suffern.
+
+For Westchester County: 6.7 inches at New Rochelle, to 13 inches at Yorktown Heights.
+
+Across the New York City area: 2 inches at John F. Kennedy International Airport, to 3.5 inches at Central Park, and 4.0 inches at Middle Village in Queens.
+
+For Nassau County: 3 inches at Garden City, to 6 inches at Great Neck and Plainview.
+
+For Suffolk County: 2 inches at Mattituck, to 8 inches at Calverton.",26
+5233500,SOUTHWEST SUFFOLK (ZONE), ,02/05/2001,2200,Heavy Snow, , ,0,0,0,0,NY,EST, ,1111338,Z,80,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/05/2001,2200, , , , ,"","
+On Monday February 5th, a developing low pressure system off the North Carolina coast moved northeast to a position off eastern Long Island by Monday evening. The storm then moved off the New England coast by early Tuesday. The storm spread a swath of rain and wet snow across southeast New York during early Monday. As the low rapidly intensified, colder air was entrained into the storm system. This changed the rain into heavy wet snow by early Monday afternoon across central and eastern Long Island. In addition, another band of heavy wet snow affected portions of the lower Hudson Valley through the afternoon hours.  This second band of snow then moved east and produced additional snow across portions of the New York City area and Long Island into Monday evening, before the snow tapered off from west to east during Monday night.
+
+Due to the rapid rate at which the snow fell, hazardous travel resulted across much of the New York City area and Long Island for the Monday evening commute. 
+
+Here are some specific snowfall totals for this snow event:
+
+For Orange County: 12 inches at Walden and Newburgh, to 22 inches at Monroe.
+
+For Putnam County: 9 inches at Carmel, to 12 inches at Putnam Valley.
+
+For Rockland County: 8 inches at New City and Mounty Ivy, to 14 inches at Suffern.
+
+For Westchester County: 6.7 inches at New Rochelle, to 13 inches at Yorktown Heights.
+
+Across the New York City area: 2 inches at John F. Kennedy International Airport, to 3.5 inches at Central Park, and 4.0 inches at Middle Village in Queens.
+
+For Nassau County: 3 inches at Garden City, to 6 inches at Great Neck and Plainview.
+
+For Suffolk County: 2 inches at Mattituck, to 8 inches at Calverton.",27
+5325403,SOUTHEAST SUFFOLK (ZONE), ,12/05/2002,1700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1146452,Z,81,OKX,0,0,OFFICIAL NWS OBS., , , , , , , , ,12/05/2002,1730, , , , ,"","
+On Wednesday, December 4th, an area of low pressure started to develop along an old frontal boundary that snaked across the northwest Gulf of Mexico and the Gulf coast states.  Meanwhile, high pressure stretched from the northern plains, across the Great Lakes, to the Mid-Atlantic coast.  This high pressure locked in the cold air across the northeast United States.  That night, the developing storm moved across the southeastern states to the North Carolina coast.  Shortly after daybreak on the morning of Thursday, December 5th, as the storm started to move off the coast near Cape Hatteras, flurries and light snow started to move into New York City and the lower Hudson Valley. By 9 am, snow had started to fall across western Long Island and Westchester County, and bands of moderate to heavy snow had started to move into New York City and the lower Hudson Valley. An hour later, snow began to fall across the eastern end of Long Island, and the snow had become heavy over the western end of Long Island and Westchester.  By 11 am, a moderate to, at times, heavy snow had spread across the entire region. This steady, moderate to heavy snow continued through most of the afternoon, falling at times at rates over an inch per hour.  As the storm sped off toward the North Atlantic waters, the heavy snow began to taper off to light snow between 4 pm and 5:30 pm.  By this time, an average of 5 to 7 inches had fallen across the New York Metropolitan area,  Long Island and most of the lower Hudson Valley and as much as 6 to 9 inches in Orange county.  As moisture continued to "wrap around" the storm, light snow continued to fall through the evening rush hour commute before tapering off to flurries and finally ending between 8 pm and 9 pm in New York City, Westchester, the lower Hudson Valley and western Long Island.  Across the east end of Long Island, light snow lingered until shortly before midnight. Final snowfall accumulations ranged from 6 to 8 inches in New York City, Long Island and the nearby northern suburbs. Further north, in portions of Orange and northwest Putnam counties, where heavier snow bands had moved across, final snowfall totals ranged from 7 to 10 inches.",28
+5325402,SOUTHWEST SUFFOLK (ZONE), ,12/05/2002,1700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1146452,Z,80,OKX,0,0,OFFICIAL NWS OBS., , , , , , , , ,12/05/2002,1730, , , , ,"","
+On Wednesday, December 4th, an area of low pressure started to develop along an old frontal boundary that snaked across the northwest Gulf of Mexico and the Gulf coast states.  Meanwhile, high pressure stretched from the northern plains, across the Great Lakes, to the Mid-Atlantic coast.  This high pressure locked in the cold air across the northeast United States.  That night, the developing storm moved across the southeastern states to the North Carolina coast.  Shortly after daybreak on the morning of Thursday, December 5th, as the storm started to move off the coast near Cape Hatteras, flurries and light snow started to move into New York City and the lower Hudson Valley. By 9 am, snow had started to fall across western Long Island and Westchester County, and bands of moderate to heavy snow had started to move into New York City and the lower Hudson Valley. An hour later, snow began to fall across the eastern end of Long Island, and the snow had become heavy over the western end of Long Island and Westchester.  By 11 am, a moderate to, at times, heavy snow had spread across the entire region. This steady, moderate to heavy snow continued through most of the afternoon, falling at times at rates over an inch per hour.  As the storm sped off toward the North Atlantic waters, the heavy snow began to taper off to light snow between 4 pm and 5:30 pm.  By this time, an average of 5 to 7 inches had fallen across the New York Metropolitan area,  Long Island and most of the lower Hudson Valley and as much as 6 to 9 inches in Orange county.  As moisture continued to "wrap around" the storm, light snow continued to fall through the evening rush hour commute before tapering off to flurries and finally ending between 8 pm and 9 pm in New York City, Westchester, the lower Hudson Valley and western Long Island.  Across the east end of Long Island, light snow lingered until shortly before midnight. Final snowfall accumulations ranged from 6 to 8 inches in New York City, Long Island and the nearby northern suburbs. Further north, in portions of Orange and northwest Putnam counties, where heavier snow bands had moved across, final snowfall totals ranged from 7 to 10 inches.",29
+5325401,NORTHEAST SUFFOLK (ZONE), ,12/05/2002,1700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1146452,Z,79,OKX,0,0,OFFICIAL NWS OBS., , , , , , , , ,12/05/2002,1730, , , , ,"","
+On Wednesday, December 4th, an area of low pressure started to develop along an old frontal boundary that snaked across the northwest Gulf of Mexico and the Gulf coast states.  Meanwhile, high pressure stretched from the northern plains, across the Great Lakes, to the Mid-Atlantic coast.  This high pressure locked in the cold air across the northeast United States.  That night, the developing storm moved across the southeastern states to the North Carolina coast.  Shortly after daybreak on the morning of Thursday, December 5th, as the storm started to move off the coast near Cape Hatteras, flurries and light snow started to move into New York City and the lower Hudson Valley. By 9 am, snow had started to fall across western Long Island and Westchester County, and bands of moderate to heavy snow had started to move into New York City and the lower Hudson Valley. An hour later, snow began to fall across the eastern end of Long Island, and the snow had become heavy over the western end of Long Island and Westchester.  By 11 am, a moderate to, at times, heavy snow had spread across the entire region. This steady, moderate to heavy snow continued through most of the afternoon, falling at times at rates over an inch per hour.  As the storm sped off toward the North Atlantic waters, the heavy snow began to taper off to light snow between 4 pm and 5:30 pm.  By this time, an average of 5 to 7 inches had fallen across the New York Metropolitan area,  Long Island and most of the lower Hudson Valley and as much as 6 to 9 inches in Orange county.  As moisture continued to "wrap around" the storm, light snow continued to fall through the evening rush hour commute before tapering off to flurries and finally ending between 8 pm and 9 pm in New York City, Westchester, the lower Hudson Valley and western Long Island.  Across the east end of Long Island, light snow lingered until shortly before midnight. Final snowfall accumulations ranged from 6 to 8 inches in New York City, Long Island and the nearby northern suburbs. Further north, in portions of Orange and northwest Putnam counties, where heavier snow bands had moved across, final snowfall totals ranged from 7 to 10 inches.",30
+5325400,NORTHWEST SUFFOLK (ZONE), ,12/05/2002,1700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1146452,Z,78,OKX,0,0,OFFICIAL NWS OBS., , , , , , , , ,12/05/2002,1730, , , , ,"","
+On Wednesday, December 4th, an area of low pressure started to develop along an old frontal boundary that snaked across the northwest Gulf of Mexico and the Gulf coast states.  Meanwhile, high pressure stretched from the northern plains, across the Great Lakes, to the Mid-Atlantic coast.  This high pressure locked in the cold air across the northeast United States.  That night, the developing storm moved across the southeastern states to the North Carolina coast.  Shortly after daybreak on the morning of Thursday, December 5th, as the storm started to move off the coast near Cape Hatteras, flurries and light snow started to move into New York City and the lower Hudson Valley. By 9 am, snow had started to fall across western Long Island and Westchester County, and bands of moderate to heavy snow had started to move into New York City and the lower Hudson Valley. An hour later, snow began to fall across the eastern end of Long Island, and the snow had become heavy over the western end of Long Island and Westchester.  By 11 am, a moderate to, at times, heavy snow had spread across the entire region. This steady, moderate to heavy snow continued through most of the afternoon, falling at times at rates over an inch per hour.  As the storm sped off toward the North Atlantic waters, the heavy snow began to taper off to light snow between 4 pm and 5:30 pm.  By this time, an average of 5 to 7 inches had fallen across the New York Metropolitan area,  Long Island and most of the lower Hudson Valley and as much as 6 to 9 inches in Orange county.  As moisture continued to "wrap around" the storm, light snow continued to fall through the evening rush hour commute before tapering off to flurries and finally ending between 8 pm and 9 pm in New York City, Westchester, the lower Hudson Valley and western Long Island.  Across the east end of Long Island, light snow lingered until shortly before midnight. Final snowfall accumulations ranged from 6 to 8 inches in New York City, Long Island and the nearby northern suburbs. Further north, in portions of Orange and northwest Putnam counties, where heavier snow bands had moved across, final snowfall totals ranged from 7 to 10 inches.",31
+5325420,NORTHWEST SUFFOLK (ZONE), ,12/25/2002,2130,Heavy Snow, , ,0,0,0,0,NY,EST, ,1146456,Z,78,OKX,0,0,OFFICIAL NWS OBS., , , , , , , , ,12/26/2002,200, , , , ,"","
+On Tuesday, December 24th, an area of low pressure began to develop over the Gulf coast states.  That night, the storm intensified as it moved northeast, reaching the Virginia coastline by daybreak on December 25th.  Around this time, spotty drizzle and light rain began to overspread the New York Metropolitan area and Long Island, while light freezing rain and freezing drizzle started to fall across the lower Hudson Valley.  As the morning progressed, the center of low pressure started to track northeast over the Atlantic along a path that hugged the coast.  As a result, a steady rain developed over New York City and Long Island, while freezing rain began to mix with sleet and snow in the lower Hudson Valley.  As the storm started to move east of the tri-state area, winds shifted from the east and northeast to the north or northwest. This allowed colder air to slowly infiltrate southeastern New York.  The wintry mix changed to snow in the lower Hudson Valley during the early afternoon, and the rain changed to snow during the mid afternoon in New York City and during the late afternoon across all of Long Island except for the twin forks region where the rain did not change to snow until that evening.  During the late afternoon and early evening, narrow bands of heavy snow developed and moved over parts of the region, which resulted in large ranges of snowfall with this storm.  As the center of the storm continued to move northeast away from the area, the snow then tapered off to light snow and flurries overnight, ending shortly after midnight in the lower Hudson Valley and New York City, and from west to east between about 2 am and 4 am across Long Island.  Snowfall amounts in Orange and Putnam counties ranged from 10 to 20 inches, 6 to 12 inches fell in Rockland and Westchester counties, and 3 to 6 inches in New York City, except for an area across the eastern Bronx and northeastern Queens, where 6 to 10 inches fell.  On Long Island, 6 to 12 inches fell in Nassau and Western Suffolk counties, while across eastern Suffolk amounts ranged from less than an inch across the twin forks to 2 to 4 inches just west of Riverhead. The wide ranges of snowfall were generally due to narrow banding of heavy snow, but across Long Island the timing of the change from rain to snow also accounted for the pronounced differential of snow received.",32
+5325421,SOUTHWEST SUFFOLK (ZONE), ,12/25/2002,2200,Heavy Snow, , ,0,0,0,0,NY,EST, ,1146456,Z,80,OKX,0,0,OFFICIAL NWS OBS., , , , , , , , ,12/26/2002,200, , , , ,"","
+On Tuesday, December 24th, an area of low pressure began to develop over the Gulf coast states.  That night, the storm intensified as it moved northeast, reaching the Virginia coastline by daybreak on December 25th.  Around this time, spotty drizzle and light rain began to overspread the New York Metropolitan area and Long Island, while light freezing rain and freezing drizzle started to fall across the lower Hudson Valley.  As the morning progressed, the center of low pressure started to track northeast over the Atlantic along a path that hugged the coast.  As a result, a steady rain developed over New York City and Long Island, while freezing rain began to mix with sleet and snow in the lower Hudson Valley.  As the storm started to move east of the tri-state area, winds shifted from the east and northeast to the north or northwest. This allowed colder air to slowly infiltrate southeastern New York.  The wintry mix changed to snow in the lower Hudson Valley during the early afternoon, and the rain changed to snow during the mid afternoon in New York City and during the late afternoon across all of Long Island except for the twin forks region where the rain did not change to snow until that evening.  During the late afternoon and early evening, narrow bands of heavy snow developed and moved over parts of the region, which resulted in large ranges of snowfall with this storm.  As the center of the storm continued to move northeast away from the area, the snow then tapered off to light snow and flurries overnight, ending shortly after midnight in the lower Hudson Valley and New York City, and from west to east between about 2 am and 4 am across Long Island.  Snowfall amounts in Orange and Putnam counties ranged from 10 to 20 inches, 6 to 12 inches fell in Rockland and Westchester counties, and 3 to 6 inches in New York City, except for an area across the eastern Bronx and northeastern Queens, where 6 to 10 inches fell.  On Long Island, 6 to 12 inches fell in Nassau and Western Suffolk counties, while across eastern Suffolk amounts ranged from less than an inch across the twin forks to 2 to 4 inches just west of Riverhead. The wide ranges of snowfall were generally due to narrow banding of heavy snow, but across Long Island the timing of the change from rain to snow also accounted for the pronounced differential of snow received.",33
+5346015,SOUTHWEST SUFFOLK (ZONE), ,02/07/2003,1300,Heavy Snow, , ,0,0,0,0,NY,EST, ,1147977,Z,80,OKX,0,0,OFFICIAL NWS OBS., , , , , , , , ,02/07/2003,1600, , , , ,"","
+As a low pressure system developed off the Mid Atlantic Coast, heavy snow occurred throughout the region.
+
+Most snowfall amounts ranged from around 5 to 9 inches.  Here are selected specific snowfall amounts for:
+
+Orange County:  from 5.0 inches at Circleville and Walden to 8.5 inches in Chester.
+
+Putnam County:  from 6.0 inches in Patterson and Mahopac to 8.0 inches in Lake Carmel.
+
+Rockland County:  from 5.8 inches in Sparkill to 8.0 inches in New City and Spring Valley.
+
+Westchester County:  from 6.4 inches in Yonkers to 9.0 inches in Valhalla.
+
+New York City:  from 4.8 inches at JFK Airport to 7.5 inches in Riverdale.  At both Central Park Zoo and LaGuardia Airport, 5.3 inches was measured. 
+
+Nassau County:  from 5.0 inches at Baldwin to 7.5 inches at Wantagh.
+
+Suffolk County:  from 5.2 inches at Flanders to 8.2 inches at Baiting Hollow.  At the National Weather Service Office, 7.4 inches was measured.",34
+5346013,NORTHWEST SUFFOLK (ZONE), ,02/07/2003,1300,Heavy Snow, , ,0,0,0,0,NY,EST, ,1147977,Z,78,OKX,0,0,OFFICIAL NWS OBS., , , , , , , , ,02/07/2003,1600, , , , ,"","
+As a low pressure system developed off the Mid Atlantic Coast, heavy snow occurred throughout the region.
+
+Most snowfall amounts ranged from around 5 to 9 inches.  Here are selected specific snowfall amounts for:
+
+Orange County:  from 5.0 inches at Circleville and Walden to 8.5 inches in Chester.
+
+Putnam County:  from 6.0 inches in Patterson and Mahopac to 8.0 inches in Lake Carmel.
+
+Rockland County:  from 5.8 inches in Sparkill to 8.0 inches in New City and Spring Valley.
+
+Westchester County:  from 6.4 inches in Yonkers to 9.0 inches in Valhalla.
+
+New York City:  from 4.8 inches at JFK Airport to 7.5 inches in Riverdale.  At both Central Park Zoo and LaGuardia Airport, 5.3 inches was measured. 
+
+Nassau County:  from 5.0 inches at Baldwin to 7.5 inches at Wantagh.
+
+Suffolk County:  from 5.2 inches at Flanders to 8.2 inches at Baiting Hollow.  At the National Weather Service Office, 7.4 inches was measured.",35
+5346016,SOUTHEAST SUFFOLK (ZONE), ,02/07/2003,1330,Heavy Snow, , ,0,0,0,0,NY,EST, ,1147977,Z,81,OKX,0,0,OFFICIAL NWS OBS., , , , , , , , ,02/07/2003,1630, , , , ,"","
+As a low pressure system developed off the Mid Atlantic Coast, heavy snow occurred throughout the region.
+
+Most snowfall amounts ranged from around 5 to 9 inches.  Here are selected specific snowfall amounts for:
+
+Orange County:  from 5.0 inches at Circleville and Walden to 8.5 inches in Chester.
+
+Putnam County:  from 6.0 inches in Patterson and Mahopac to 8.0 inches in Lake Carmel.
+
+Rockland County:  from 5.8 inches in Sparkill to 8.0 inches in New City and Spring Valley.
+
+Westchester County:  from 6.4 inches in Yonkers to 9.0 inches in Valhalla.
+
+New York City:  from 4.8 inches at JFK Airport to 7.5 inches in Riverdale.  At both Central Park Zoo and LaGuardia Airport, 5.3 inches was measured. 
+
+Nassau County:  from 5.0 inches at Baldwin to 7.5 inches at Wantagh.
+
+Suffolk County:  from 5.2 inches at Flanders to 8.2 inches at Baiting Hollow.  At the National Weather Service Office, 7.4 inches was measured.",36
+5346014,NORTHEAST SUFFOLK (ZONE), ,02/07/2003,1330,Heavy Snow, , ,0,0,0,0,NY,EST, ,1147977,Z,79,OKX,0,0,OFFICIAL NWS OBS., , , , , , , , ,02/07/2003,1630, , , , ,"","
+As a low pressure system developed off the Mid Atlantic Coast, heavy snow occurred throughout the region.
+
+Most snowfall amounts ranged from around 5 to 9 inches.  Here are selected specific snowfall amounts for:
+
+Orange County:  from 5.0 inches at Circleville and Walden to 8.5 inches in Chester.
+
+Putnam County:  from 6.0 inches in Patterson and Mahopac to 8.0 inches in Lake Carmel.
+
+Rockland County:  from 5.8 inches in Sparkill to 8.0 inches in New City and Spring Valley.
+
+Westchester County:  from 6.4 inches in Yonkers to 9.0 inches in Valhalla.
+
+New York City:  from 4.8 inches at JFK Airport to 7.5 inches in Riverdale.  At both Central Park Zoo and LaGuardia Airport, 5.3 inches was measured. 
+
+Nassau County:  from 5.0 inches at Baldwin to 7.5 inches at Wantagh.
+
+Suffolk County:  from 5.2 inches at Flanders to 8.2 inches at Baiting Hollow.  At the National Weather Service Office, 7.4 inches was measured.",37
+5344502,SOUTHWEST SUFFOLK (ZONE), ,02/17/2003,500,Heavy Snow, , ,0,0,0,0,NY,EST, ,1147980,Z,80,OKX,0,0,OFFICIAL NWS OBS., , , , , , , , ,02/18/2003,100, , , , ,"","
+With an exceptionally strong high pressure system over New England, a low pressure system developed off the Mid Atlantic Coast.  Periods of light snow developed as northeast winds increased to around 15 mph across the NYC Metro area Sunday afternoon, February 16th.  Snow became widespread and heavy, falling at rates up to 2 to 3 inches per hour Sunday night and Monday, February 17th.  Heavy snow blown by northeast winds 20 to 30 mph caused near blizzard conditions throughout the area.  Record heavy snowfalls crippled mass transit.  These extremely hazardous weather conditions led to local emergency declarations throughout the region.  In New York City, the cost estimate for total snowfall operations was around 20 million dollars.  In addition, widespread moderate beach erosion and minor tidal flooding accompanied this system.
+
+Storm Total Snowfall ranged from around 14 to 28 inches.
+
+Here are selected specific snowfall amounts for:
+
+Orange County:  from 14.0 inches at Port Jervis to 28.0 inches at Tuxedo.
+
+Putnam County:  from 15.5 inches at West Mahopac to 20.0 inches at Carmel.
+
+Rockland County:  from 18.0 inches at Nyack to 24.3 inches at Sparkill.
+
+Westchester County:  from 14.5 inches at Croton On Hudson to 26.0 inches at Thornwood.
+
+New York City:  from 15.5 inches at Marine Park in Brooklyn to 25.6 inches at JFK Airport.  At the Central Park Zoo, 19.8 inches was measured.  At LaGuardia Airport, 16.5 inches was measured.
+
+Nassau County:  from 14.1 inches at Valley Stream to 23.5 inches at Farmingdale.
+
+Suffolk County:  from 14.0 inches at Islip and Manorville to 24.0 inches at Bohemia and Bridgehampton.  At the National Weather Service Office in Upton, 21.1 inches was measured.",38
+5344503,SOUTHEAST SUFFOLK (ZONE), ,02/17/2003,600,Heavy Snow, , ,0,0,0,0,NY,EST, ,1147980,Z,81,OKX,0,0,OFFICIAL NWS OBS., , , , , , , , ,02/18/2003,0, , , , ,"","
+With an exceptionally strong high pressure system over New England, a low pressure system developed off the Mid Atlantic Coast.  Periods of light snow developed as northeast winds increased to around 15 mph across the NYC Metro area Sunday afternoon, February 16th.  Snow became widespread and heavy, falling at rates up to 2 to 3 inches per hour Sunday night and Monday, February 17th.  Heavy snow blown by northeast winds 20 to 30 mph caused near blizzard conditions throughout the area.  Record heavy snowfalls crippled mass transit.  These extremely hazardous weather conditions led to local emergency declarations throughout the region.  In New York City, the cost estimate for total snowfall operations was around 20 million dollars.  In addition, widespread moderate beach erosion and minor tidal flooding accompanied this system.
+
+Storm Total Snowfall ranged from around 14 to 28 inches.
+
+Here are selected specific snowfall amounts for:
+
+Orange County:  from 14.0 inches at Port Jervis to 28.0 inches at Tuxedo.
+
+Putnam County:  from 15.5 inches at West Mahopac to 20.0 inches at Carmel.
+
+Rockland County:  from 18.0 inches at Nyack to 24.3 inches at Sparkill.
+
+Westchester County:  from 14.5 inches at Croton On Hudson to 26.0 inches at Thornwood.
+
+New York City:  from 15.5 inches at Marine Park in Brooklyn to 25.6 inches at JFK Airport.  At the Central Park Zoo, 19.8 inches was measured.  At LaGuardia Airport, 16.5 inches was measured.
+
+Nassau County:  from 14.1 inches at Valley Stream to 23.5 inches at Farmingdale.
+
+Suffolk County:  from 14.0 inches at Islip and Manorville to 24.0 inches at Bohemia and Bridgehampton.  At the National Weather Service Office in Upton, 21.1 inches was measured.",39
+5344500,NORTHWEST SUFFOLK (ZONE), ,02/17/2003,600,Heavy Snow, , ,0,0,0,0,NY,EST, ,1147980,Z,78,OKX,0,0,OFFICIAL NWS OBS., , , , , , , , ,02/18/2003,100, , , , ,"","
+With an exceptionally strong high pressure system over New England, a low pressure system developed off the Mid Atlantic Coast.  Periods of light snow developed as northeast winds increased to around 15 mph across the NYC Metro area Sunday afternoon, February 16th.  Snow became widespread and heavy, falling at rates up to 2 to 3 inches per hour Sunday night and Monday, February 17th.  Heavy snow blown by northeast winds 20 to 30 mph caused near blizzard conditions throughout the area.  Record heavy snowfalls crippled mass transit.  These extremely hazardous weather conditions led to local emergency declarations throughout the region.  In New York City, the cost estimate for total snowfall operations was around 20 million dollars.  In addition, widespread moderate beach erosion and minor tidal flooding accompanied this system.
+
+Storm Total Snowfall ranged from around 14 to 28 inches.
+
+Here are selected specific snowfall amounts for:
+
+Orange County:  from 14.0 inches at Port Jervis to 28.0 inches at Tuxedo.
+
+Putnam County:  from 15.5 inches at West Mahopac to 20.0 inches at Carmel.
+
+Rockland County:  from 18.0 inches at Nyack to 24.3 inches at Sparkill.
+
+Westchester County:  from 14.5 inches at Croton On Hudson to 26.0 inches at Thornwood.
+
+New York City:  from 15.5 inches at Marine Park in Brooklyn to 25.6 inches at JFK Airport.  At the Central Park Zoo, 19.8 inches was measured.  At LaGuardia Airport, 16.5 inches was measured.
+
+Nassau County:  from 14.1 inches at Valley Stream to 23.5 inches at Farmingdale.
+
+Suffolk County:  from 14.0 inches at Islip and Manorville to 24.0 inches at Bohemia and Bridgehampton.  At the National Weather Service Office in Upton, 21.1 inches was measured.",40
+5344501,NORTHEAST SUFFOLK (ZONE), ,02/17/2003,700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1147980,Z,79,OKX,0,0,OFFICIAL NWS OBS., , , , , , , , ,02/18/2003,0, , , , ,"","
+With an exceptionally strong high pressure system over New England, a low pressure system developed off the Mid Atlantic Coast.  Periods of light snow developed as northeast winds increased to around 15 mph across the NYC Metro area Sunday afternoon, February 16th.  Snow became widespread and heavy, falling at rates up to 2 to 3 inches per hour Sunday night and Monday, February 17th.  Heavy snow blown by northeast winds 20 to 30 mph caused near blizzard conditions throughout the area.  Record heavy snowfalls crippled mass transit.  These extremely hazardous weather conditions led to local emergency declarations throughout the region.  In New York City, the cost estimate for total snowfall operations was around 20 million dollars.  In addition, widespread moderate beach erosion and minor tidal flooding accompanied this system.
+
+Storm Total Snowfall ranged from around 14 to 28 inches.
+
+Here are selected specific snowfall amounts for:
+
+Orange County:  from 14.0 inches at Port Jervis to 28.0 inches at Tuxedo.
+
+Putnam County:  from 15.5 inches at West Mahopac to 20.0 inches at Carmel.
+
+Rockland County:  from 18.0 inches at Nyack to 24.3 inches at Sparkill.
+
+Westchester County:  from 14.5 inches at Croton On Hudson to 26.0 inches at Thornwood.
+
+New York City:  from 15.5 inches at Marine Park in Brooklyn to 25.6 inches at JFK Airport.  At the Central Park Zoo, 19.8 inches was measured.  At LaGuardia Airport, 16.5 inches was measured.
+
+Nassau County:  from 14.1 inches at Valley Stream to 23.5 inches at Farmingdale.
+
+Suffolk County:  from 14.0 inches at Islip and Manorville to 24.0 inches at Bohemia and Bridgehampton.  At the National Weather Service Office in Upton, 21.1 inches was measured.",41
+5346714,SOUTHEAST SUFFOLK (ZONE), ,03/06/2003,1500,Heavy Snow, , ,0,0,0,0,NY,EST, ,1148806,Z,81,OKX,0,0,OFFICIAL NWS OBS., , , , , , , , ,03/06/2003,1900, , , , ,"","
+A weak low pressure system formed over the Ohio River Valley along a pre-existing and nearly stationary frontal boundary on Wednesday, March 5th. That night this storm started to move east, and passed just south of the New York City Metropolitan area and Long Island on Thursday, March 6th. Meanwhile, an area of strengthening High Pressure started to build down from southern Canada. This created a north to northeast flow, which allowed rain and sleet at the onset of precipitation to quickly turn to snow, which remained the precipitation type for the duration of the storm. Snowfall amounts for this late winter storm were as follows:
+
+Orange County: 7 to 10 inches, including 7.0 inches at Newburgh and 8.0 inches in Monroe.
+
+Putnam County: 5 to 7 inches, including 6.5 inches in Brewster.
+
+Rockland County: 5 to 7 inches.
+
+Westchester County: 5 to 8 inches, including 6.7 in White Plains.
+
+Suffolk County: 4 to 8 inches.",42
+5346712,NORTHWEST SUFFOLK (ZONE), ,03/06/2003,1500,Heavy Snow, , ,0,0,0,0,NY,EST, ,1148806,Z,78,OKX,0,0,OFFICIAL NWS OBS., , , , , , , , ,03/06/2003,1900, , , , ,"","
+A weak low pressure system formed over the Ohio River Valley along a pre-existing and nearly stationary frontal boundary on Wednesday, March 5th. That night this storm started to move east, and passed just south of the New York City Metropolitan area and Long Island on Thursday, March 6th. Meanwhile, an area of strengthening High Pressure started to build down from southern Canada. This created a north to northeast flow, which allowed rain and sleet at the onset of precipitation to quickly turn to snow, which remained the precipitation type for the duration of the storm. Snowfall amounts for this late winter storm were as follows:
+
+Orange County: 7 to 10 inches, including 7.0 inches at Newburgh and 8.0 inches in Monroe.
+
+Putnam County: 5 to 7 inches, including 6.5 inches in Brewster.
+
+Rockland County: 5 to 7 inches.
+
+Westchester County: 5 to 8 inches, including 6.7 in White Plains.
+
+Suffolk County: 4 to 8 inches.",43
+5346713,NORTHEAST SUFFOLK (ZONE), ,03/06/2003,1700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1148806,Z,79,OKX,0,0,OFFICIAL NWS OBS., , , , , , , , ,03/06/2003,1900, , , , ,"","
+A weak low pressure system formed over the Ohio River Valley along a pre-existing and nearly stationary frontal boundary on Wednesday, March 5th. That night this storm started to move east, and passed just south of the New York City Metropolitan area and Long Island on Thursday, March 6th. Meanwhile, an area of strengthening High Pressure started to build down from southern Canada. This created a north to northeast flow, which allowed rain and sleet at the onset of precipitation to quickly turn to snow, which remained the precipitation type for the duration of the storm. Snowfall amounts for this late winter storm were as follows:
+
+Orange County: 7 to 10 inches, including 7.0 inches at Newburgh and 8.0 inches in Monroe.
+
+Putnam County: 5 to 7 inches, including 6.5 inches in Brewster.
+
+Rockland County: 5 to 7 inches.
+
+Westchester County: 5 to 8 inches, including 6.7 in White Plains.
+
+Suffolk County: 4 to 8 inches.",44
+5350126,NORTHWEST SUFFOLK (ZONE), ,04/07/2003,1600,Heavy Snow, , ,0,0,0,0,NY,EST, ,1150135,Z,78,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,04/07/2003,1800, , , , ,"","
+This late season snowstorm produced widespread snowfall amounts of 4 to 7 inches in New York City and Long Island. This included about a 4 hour period on the afternoon of Monday, April 7th during which heavy snow fell at rates of an inch or more per hour. Local impacts from the storm included over 300 cancelled flights at LaGuardia and Kennedy Airports, a crippled mass transit system, numerous traffic accidents on area roadways and downed tree limbs in the vicinity of Peter Cooper Village in Manhattan.",45
+5350127,NORTHEAST SUFFOLK (ZONE), ,04/07/2003,1700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1150135,Z,79,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,04/07/2003,1800, , , , ,"","
+This late season snowstorm produced widespread snowfall amounts of 4 to 7 inches in New York City and Long Island. This included about a 4 hour period on the afternoon of Monday, April 7th during which heavy snow fell at rates of an inch or more per hour. Local impacts from the storm included over 300 cancelled flights at LaGuardia and Kennedy Airports, a crippled mass transit system, numerous traffic accidents on area roadways and downed tree limbs in the vicinity of Peter Cooper Village in Manhattan.",46
+5350128,SOUTHWEST SUFFOLK (ZONE), ,04/07/2003,1700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1150135,Z,80,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,04/07/2003,1800, , , , ,"","
+This late season snowstorm produced widespread snowfall amounts of 4 to 7 inches in New York City and Long Island. This included about a 4 hour period on the afternoon of Monday, April 7th during which heavy snow fell at rates of an inch or more per hour. Local impacts from the storm included over 300 cancelled flights at LaGuardia and Kennedy Airports, a crippled mass transit system, numerous traffic accidents on area roadways and downed tree limbs in the vicinity of Peter Cooper Village in Manhattan.",47
+5350129,SOUTHEAST SUFFOLK (ZONE), ,04/07/2003,1700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1150135,Z,81,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,04/07/2003,1800, , , , ,"","
+This late season snowstorm produced widespread snowfall amounts of 4 to 7 inches in New York City and Long Island. This included about a 4 hour period on the afternoon of Monday, April 7th during which heavy snow fell at rates of an inch or more per hour. Local impacts from the storm included over 300 cancelled flights at LaGuardia and Kennedy Airports, a crippled mass transit system, numerous traffic accidents on area roadways and downed tree limbs in the vicinity of Peter Cooper Village in Manhattan.",48
+5329160,SOUTHWEST SUFFOLK (ZONE), ,12/05/2003,1900,Heavy Snow, , ,0,0,0,0,NY,EST, ,1165251,Z,80,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,12/07/2003,300, , , , ,"","
+As a cold high pressure system settled over New England, a series of low pressure systems developed off the Mid Atlantic Coast during Friday, December 5th and Saturday, December 6th.
+
+The first low pressure system developed along the North Carolina Coast during Friday morning.  As this low moved northeast, it intensified.  Light snow developed and quickly spread northeast across the area during the morning.  Snowfall became heavy across the NYC Metro Area, Long Island, and Southern Westchester County during the afternoon. Between 7 and 10 pm that evening, a 6 to 10 inch snowfall occurred across this area.  There were major impacts to mass transit operations during the evening's "rush" hours.  As this low moved southeast of Long Island, snowfall intensity decreased and became light across the region.
+
+The second low pressure system developed further north and west along the DELMARVA Coast during Saturday morning.  As this low rapidly intensified, it moved slowly northeast.  Light snow became heavy across the entire region by early afternoon.  Blizzard conditions developed from Queens County east across Suffolk County between 1 pm and 6 pm.  Wind gusts of at least 35 mph combined with heavy falling snow created "white out" conditions that reduced visibility to less than 1/4 mile.  Major widespread impacts to mass transit occurred across the entire region.
+
+Storm Total Snowfall amounts for this 2 day episode ranged from 6 to 25 inches.  Most snowfall accumulations were between 10 and 15 inches.  Here are selected snowfall amounts for:
+
+New York County - from 14.0 inches at Central Park Zoo to 17.8 inches at Bryant Park.
+
+Bronx County - 15.9 inches was measured at Parkchester
+
+Queens County - from 11 inches at Richmond Hill to 13.1 inches at LaGuardia Airport.  At John F. Kennedy Airport, 12.7 inches was measured.
+
+Kings County - from 10.0 inches at Downtown Water Street to 10.7 inches at Graves End.
+
+Richmond County - 12.0 inches was measured in Staten Island.
+
+Nassau County - from 12.0 inches at Rockville Center to 16.6 inches at Bethpage.
+
+Suffolk County - from 11.0 inches at Rocky Point and Wading River to 20.5 inches in Centereach.  At the NWS Upton Office, 19.8 inches was measured.
+
+Rockland County - from 7.0 inches at Sparkill to 11.0 inches at New City.
+
+Westchester County - from 11.0 inches at Armonk to 16.0 inches at Yorktown.
+
+Orange County - from 6.0 inches at Port Jervis to 25.0 inches at Chester.
+
+Putnam County - from 8.3 inches at Pearl River to 15.0 inches at Kent.",49
+5329158,NORTHWEST SUFFOLK (ZONE), ,12/05/2003,1900,Heavy Snow, , ,0,0,0,0,NY,EST, ,1165251,Z,78,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,12/07/2003,300, , , , ,"","
+As a cold high pressure system settled over New England, a series of low pressure systems developed off the Mid Atlantic Coast during Friday, December 5th and Saturday, December 6th.
+
+The first low pressure system developed along the North Carolina Coast during Friday morning.  As this low moved northeast, it intensified.  Light snow developed and quickly spread northeast across the area during the morning.  Snowfall became heavy across the NYC Metro Area, Long Island, and Southern Westchester County during the afternoon. Between 7 and 10 pm that evening, a 6 to 10 inch snowfall occurred across this area.  There were major impacts to mass transit operations during the evening's "rush" hours.  As this low moved southeast of Long Island, snowfall intensity decreased and became light across the region.
+
+The second low pressure system developed further north and west along the DELMARVA Coast during Saturday morning.  As this low rapidly intensified, it moved slowly northeast.  Light snow became heavy across the entire region by early afternoon.  Blizzard conditions developed from Queens County east across Suffolk County between 1 pm and 6 pm.  Wind gusts of at least 35 mph combined with heavy falling snow created "white out" conditions that reduced visibility to less than 1/4 mile.  Major widespread impacts to mass transit occurred across the entire region.
+
+Storm Total Snowfall amounts for this 2 day episode ranged from 6 to 25 inches.  Most snowfall accumulations were between 10 and 15 inches.  Here are selected snowfall amounts for:
+
+New York County - from 14.0 inches at Central Park Zoo to 17.8 inches at Bryant Park.
+
+Bronx County - 15.9 inches was measured at Parkchester
+
+Queens County - from 11 inches at Richmond Hill to 13.1 inches at LaGuardia Airport.  At John F. Kennedy Airport, 12.7 inches was measured.
+
+Kings County - from 10.0 inches at Downtown Water Street to 10.7 inches at Graves End.
+
+Richmond County - 12.0 inches was measured in Staten Island.
+
+Nassau County - from 12.0 inches at Rockville Center to 16.6 inches at Bethpage.
+
+Suffolk County - from 11.0 inches at Rocky Point and Wading River to 20.5 inches in Centereach.  At the NWS Upton Office, 19.8 inches was measured.
+
+Rockland County - from 7.0 inches at Sparkill to 11.0 inches at New City.
+
+Westchester County - from 11.0 inches at Armonk to 16.0 inches at Yorktown.
+
+Orange County - from 6.0 inches at Port Jervis to 25.0 inches at Chester.
+
+Putnam County - from 8.3 inches at Pearl River to 15.0 inches at Kent.",50
+5329159,NORTHEAST SUFFOLK (ZONE), ,12/05/2003,2000,Heavy Snow, , ,0,0,0,0,NY,EST, ,1165251,Z,79,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,12/07/2003,300, , , , ,"","
+As a cold high pressure system settled over New England, a series of low pressure systems developed off the Mid Atlantic Coast during Friday, December 5th and Saturday, December 6th.
+
+The first low pressure system developed along the North Carolina Coast during Friday morning.  As this low moved northeast, it intensified.  Light snow developed and quickly spread northeast across the area during the morning.  Snowfall became heavy across the NYC Metro Area, Long Island, and Southern Westchester County during the afternoon. Between 7 and 10 pm that evening, a 6 to 10 inch snowfall occurred across this area.  There were major impacts to mass transit operations during the evening's "rush" hours.  As this low moved southeast of Long Island, snowfall intensity decreased and became light across the region.
+
+The second low pressure system developed further north and west along the DELMARVA Coast during Saturday morning.  As this low rapidly intensified, it moved slowly northeast.  Light snow became heavy across the entire region by early afternoon.  Blizzard conditions developed from Queens County east across Suffolk County between 1 pm and 6 pm.  Wind gusts of at least 35 mph combined with heavy falling snow created "white out" conditions that reduced visibility to less than 1/4 mile.  Major widespread impacts to mass transit occurred across the entire region.
+
+Storm Total Snowfall amounts for this 2 day episode ranged from 6 to 25 inches.  Most snowfall accumulations were between 10 and 15 inches.  Here are selected snowfall amounts for:
+
+New York County - from 14.0 inches at Central Park Zoo to 17.8 inches at Bryant Park.
+
+Bronx County - 15.9 inches was measured at Parkchester
+
+Queens County - from 11 inches at Richmond Hill to 13.1 inches at LaGuardia Airport.  At John F. Kennedy Airport, 12.7 inches was measured.
+
+Kings County - from 10.0 inches at Downtown Water Street to 10.7 inches at Graves End.
+
+Richmond County - 12.0 inches was measured in Staten Island.
+
+Nassau County - from 12.0 inches at Rockville Center to 16.6 inches at Bethpage.
+
+Suffolk County - from 11.0 inches at Rocky Point and Wading River to 20.5 inches in Centereach.  At the NWS Upton Office, 19.8 inches was measured.
+
+Rockland County - from 7.0 inches at Sparkill to 11.0 inches at New City.
+
+Westchester County - from 11.0 inches at Armonk to 16.0 inches at Yorktown.
+
+Orange County - from 6.0 inches at Port Jervis to 25.0 inches at Chester.
+
+Putnam County - from 8.3 inches at Pearl River to 15.0 inches at Kent.",51
+5329161,SOUTHEAST SUFFOLK (ZONE), ,12/05/2003,2000,Heavy Snow, , ,0,0,0,0,NY,EST, ,1165251,Z,81,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,12/07/2003,300, , , , ,"","
+As a cold high pressure system settled over New England, a series of low pressure systems developed off the Mid Atlantic Coast during Friday, December 5th and Saturday, December 6th.
+
+The first low pressure system developed along the North Carolina Coast during Friday morning.  As this low moved northeast, it intensified.  Light snow developed and quickly spread northeast across the area during the morning.  Snowfall became heavy across the NYC Metro Area, Long Island, and Southern Westchester County during the afternoon. Between 7 and 10 pm that evening, a 6 to 10 inch snowfall occurred across this area.  There were major impacts to mass transit operations during the evening's "rush" hours.  As this low moved southeast of Long Island, snowfall intensity decreased and became light across the region.
+
+The second low pressure system developed further north and west along the DELMARVA Coast during Saturday morning.  As this low rapidly intensified, it moved slowly northeast.  Light snow became heavy across the entire region by early afternoon.  Blizzard conditions developed from Queens County east across Suffolk County between 1 pm and 6 pm.  Wind gusts of at least 35 mph combined with heavy falling snow created "white out" conditions that reduced visibility to less than 1/4 mile.  Major widespread impacts to mass transit occurred across the entire region.
+
+Storm Total Snowfall amounts for this 2 day episode ranged from 6 to 25 inches.  Most snowfall accumulations were between 10 and 15 inches.  Here are selected snowfall amounts for:
+
+New York County - from 14.0 inches at Central Park Zoo to 17.8 inches at Bryant Park.
+
+Bronx County - 15.9 inches was measured at Parkchester
+
+Queens County - from 11 inches at Richmond Hill to 13.1 inches at LaGuardia Airport.  At John F. Kennedy Airport, 12.7 inches was measured.
+
+Kings County - from 10.0 inches at Downtown Water Street to 10.7 inches at Graves End.
+
+Richmond County - 12.0 inches was measured in Staten Island.
+
+Nassau County - from 12.0 inches at Rockville Center to 16.6 inches at Bethpage.
+
+Suffolk County - from 11.0 inches at Rocky Point and Wading River to 20.5 inches in Centereach.  At the NWS Upton Office, 19.8 inches was measured.
+
+Rockland County - from 7.0 inches at Sparkill to 11.0 inches at New City.
+
+Westchester County - from 11.0 inches at Armonk to 16.0 inches at Yorktown.
+
+Orange County - from 6.0 inches at Port Jervis to 25.0 inches at Chester.
+
+Putnam County - from 8.3 inches at Pearl River to 15.0 inches at Kent.",52
+5381620,NORTHWEST SUFFOLK (ZONE), ,01/15/2004,800,Heavy Snow, , ,0,0,0,0,NY,EST, ,1165465,Z,78,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,01/15/2004,800, , , , ,"","
+With an arctic air mass in place, as a strong Alberta clipper moved south of Long Island, heavy snow occurred across parts of the region.  Light snow developed during Wednesday evening, January 14th.  It became heavy at times, mainly between midnight and 8 am on Thursday, January 15th.  The Storm Total Snowfall amounts ranged from around 6 to 8 inches, as follows:
+
+In Orange County, amounts ranged from 5.0 inches at Montgomery, Cornwall-On-The-Hudson, and New Windsor to 7.4 inches at Chester.
+
+In the Bronx, 7.0 inches was measured at Riverdale.  In extreme Southern Westchester County, snowfall ranged from 6.0 inches at Bronxville to 6.5 inches at Yonkers.
+
+In Manhattan, snowfall amounts ranged from 5.2 inches at Bryant Park to 5.7 inches at the Central Park Zoo.
+
+In Staten Island, snowfall amounts ranged from 5.8 inches at Grasmere to 6.4 inches at Eltingville.
+
+In Brooklyn, snowfall amounts ranged from 5.7 inches at Graves End to 6.3 inches at Brooklyn.
+
+In Queens, amounts ranged from 5.8 inches at John F. Kennedy Airport to 7.0 inches at Far Rockaway.  At LaGuardia Airport, 6.8 inches was measured.
+
+In Nassau County, amounts ranged from 5.5 inches at Lynbrook to 7.0 inches at Farmingdale and West Hempstead.
+
+In Suffolk County, most snowfall amounts ranged from 5.0 inches at Islip Airport, Islip Hamlet, and Manorville to 8.1 inches at Selden.",53
+5381621,SOUTHWEST SUFFOLK (ZONE), ,01/15/2004,800,Heavy Snow, , ,0,0,0,0,NY,EST, ,1165465,Z,80,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,01/15/2004,800, , , , ,"","
+With an arctic air mass in place, as a strong Alberta clipper moved south of Long Island, heavy snow occurred across parts of the region.  Light snow developed during Wednesday evening, January 14th.  It became heavy at times, mainly between midnight and 8 am on Thursday, January 15th.  The Storm Total Snowfall amounts ranged from around 6 to 8 inches, as follows:
+
+In Orange County, amounts ranged from 5.0 inches at Montgomery, Cornwall-On-The-Hudson, and New Windsor to 7.4 inches at Chester.
+
+In the Bronx, 7.0 inches was measured at Riverdale.  In extreme Southern Westchester County, snowfall ranged from 6.0 inches at Bronxville to 6.5 inches at Yonkers.
+
+In Manhattan, snowfall amounts ranged from 5.2 inches at Bryant Park to 5.7 inches at the Central Park Zoo.
+
+In Staten Island, snowfall amounts ranged from 5.8 inches at Grasmere to 6.4 inches at Eltingville.
+
+In Brooklyn, snowfall amounts ranged from 5.7 inches at Graves End to 6.3 inches at Brooklyn.
+
+In Queens, amounts ranged from 5.8 inches at John F. Kennedy Airport to 7.0 inches at Far Rockaway.  At LaGuardia Airport, 6.8 inches was measured.
+
+In Nassau County, amounts ranged from 5.5 inches at Lynbrook to 7.0 inches at Farmingdale and West Hempstead.
+
+In Suffolk County, most snowfall amounts ranged from 5.0 inches at Islip Airport, Islip Hamlet, and Manorville to 8.1 inches at Selden.",54
+5381623,SOUTHEAST SUFFOLK (ZONE), ,01/15/2004,900,Heavy Snow, , ,0,0,0,0,NY,EST, ,1165465,Z,81,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,01/15/2004,900, , , , ,"","
+With an arctic air mass in place, as a strong Alberta clipper moved south of Long Island, heavy snow occurred across parts of the region.  Light snow developed during Wednesday evening, January 14th.  It became heavy at times, mainly between midnight and 8 am on Thursday, January 15th.  The Storm Total Snowfall amounts ranged from around 6 to 8 inches, as follows:
+
+In Orange County, amounts ranged from 5.0 inches at Montgomery, Cornwall-On-The-Hudson, and New Windsor to 7.4 inches at Chester.
+
+In the Bronx, 7.0 inches was measured at Riverdale.  In extreme Southern Westchester County, snowfall ranged from 6.0 inches at Bronxville to 6.5 inches at Yonkers.
+
+In Manhattan, snowfall amounts ranged from 5.2 inches at Bryant Park to 5.7 inches at the Central Park Zoo.
+
+In Staten Island, snowfall amounts ranged from 5.8 inches at Grasmere to 6.4 inches at Eltingville.
+
+In Brooklyn, snowfall amounts ranged from 5.7 inches at Graves End to 6.3 inches at Brooklyn.
+
+In Queens, amounts ranged from 5.8 inches at John F. Kennedy Airport to 7.0 inches at Far Rockaway.  At LaGuardia Airport, 6.8 inches was measured.
+
+In Nassau County, amounts ranged from 5.5 inches at Lynbrook to 7.0 inches at Farmingdale and West Hempstead.
+
+In Suffolk County, most snowfall amounts ranged from 5.0 inches at Islip Airport, Islip Hamlet, and Manorville to 8.1 inches at Selden.",55
+5381622,NORTHEAST SUFFOLK (ZONE), ,01/15/2004,900,Heavy Snow, , ,0,0,0,0,NY,EST, ,1165465,Z,79,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,01/15/2004,900, , , , ,"","
+With an arctic air mass in place, as a strong Alberta clipper moved south of Long Island, heavy snow occurred across parts of the region.  Light snow developed during Wednesday evening, January 14th.  It became heavy at times, mainly between midnight and 8 am on Thursday, January 15th.  The Storm Total Snowfall amounts ranged from around 6 to 8 inches, as follows:
+
+In Orange County, amounts ranged from 5.0 inches at Montgomery, Cornwall-On-The-Hudson, and New Windsor to 7.4 inches at Chester.
+
+In the Bronx, 7.0 inches was measured at Riverdale.  In extreme Southern Westchester County, snowfall ranged from 6.0 inches at Bronxville to 6.5 inches at Yonkers.
+
+In Manhattan, snowfall amounts ranged from 5.2 inches at Bryant Park to 5.7 inches at the Central Park Zoo.
+
+In Staten Island, snowfall amounts ranged from 5.8 inches at Grasmere to 6.4 inches at Eltingville.
+
+In Brooklyn, snowfall amounts ranged from 5.7 inches at Graves End to 6.3 inches at Brooklyn.
+
+In Queens, amounts ranged from 5.8 inches at John F. Kennedy Airport to 7.0 inches at Far Rockaway.  At LaGuardia Airport, 6.8 inches was measured.
+
+In Nassau County, amounts ranged from 5.5 inches at Lynbrook to 7.0 inches at Farmingdale and West Hempstead.
+
+In Suffolk County, most snowfall amounts ranged from 5.0 inches at Islip Airport, Islip Hamlet, and Manorville to 8.1 inches at Selden.",56
+5430911,SOUTHEAST SUFFOLK (ZONE), ,12/27/2004,200,Heavy Snow, , ,0,0,0,0,NY,EST, ,1182723,Z,81,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,12/27/2004,700, , , , ,"","
+A low pressure system developed along the Southeast U.S. coast and intensified as it moved northeast, passing about 300 miles southeast of Long Island.  Bands of snow, which became heavy, rotated northwest around this system during Sunday evening, December 26th, before ending early Monday morning.
+
+Snowfall amounts ranged from:
+
+6 to 9 inches across the south fork (from 6.5 inches at Westhampton Beach to 8.7 inches at East Hampton)
+
+5 to 8 inches across the north fork
+
+4 to 6 inches across Western Suffolk County and parts of Nassau County.",57
+5430912,NORTHEAST SUFFOLK (ZONE), ,12/27/2004,300,Heavy Snow, , ,0,0,0,0,NY,EST, ,1182723,Z,79,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,12/27/2004,600, , , , ,"","
+A low pressure system developed along the Southeast U.S. coast and intensified as it moved northeast, passing about 300 miles southeast of Long Island.  Bands of snow, which became heavy, rotated northwest around this system during Sunday evening, December 26th, before ending early Monday morning.
+
+Snowfall amounts ranged from:
+
+6 to 9 inches across the south fork (from 6.5 inches at Westhampton Beach to 8.7 inches at East Hampton)
+
+5 to 8 inches across the north fork
+
+4 to 6 inches across Western Suffolk County and parts of Nassau County.",58
+5433549,SOUTHWEST SUFFOLK (ZONE), ,01/22/2005,1830,Heavy Snow, , ,0,0,0,0,NY,EST, ,1183728,Z,80,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,01/22/2005,1830, , , , ,"","
+With cold air in place, as an Alberta Clipper moved southeast across the Ohio Valley, it weakened and redeveloped off the DELMARVA Coast during Saturday, January 22nd.  This low rapidly intensified as it moved south of Long Island Saturday night and offshore Sunday.  These systems produced near blizzard conditions with heavy snow, strong and gusty winds, blowing snow, and drifting snow.  Widespread moderate beach erosion and minor tidal flooding occurred across the Atlantic Ocean shores and east end from Saturday afternoon through Sunday morning, January 23rd.
+
+Light snow spread northeast across the region between 11 am and 1 pm, although patches of light snow occurred across the twin forks of Long Island between 9 am and 10 am.  It quickly became heavy, falling at a rate of at least 1 inch per hour, between 1 pm and 3 pm and lasted until between 7 pm and 11 pm.  Across the Lower Hudson Valley, temperatures rose from the single digits into the teens as northeast winds increased up to 15 to 25 mph during this time.  Across New York City and Long Island, temperatures rose from the teens into the 20s as northeast winds increased up to 20 to 30 mph during this time.  Driving was hazardous and there were widespread impacts to mass transit.  As the snowfall intensity decreased during Saturday night, north winds increased to 20 to 30 mph with gusts between 35 and 50 mph.  A few peak gusts near 65 mph occurred across the twin forks of Long Island.  Peak gusts at Shinnecock Inlet and Orient Point were measured at 64 and 63 mph, respectively.  This caused blowing and drifting snow through Sunday, January 23rd.
+
+Storm total snowfalls ranged from around 7 to 20 inches across the region.  Most locations measured between 8 and 16 inches.  Here are selected snowfall amounts for:
+
+Orange County - from 8.0 inches at Campbell Hall to 15.0 inches at Highland Mills.
+
+Putnam County - from 8.0 inches at Kent Cliffs to 12.0 inches at Mahopac.
+
+Rockland County - from 8.5 inches at Monsey to 10.8 inches at New City.
+
+Westchester County - from 8.0 inches at Port Chester, Eastchester, and Ardsley to 15.0 inches at Pound Ridge.
+
+Bronx County - from 6.5 inches at Throgs Neck to 11.6 inches at Parkchester.
+
+New York County (Manhattan) - from 13.0 inches at Chinatown to 13.8 inches at Central Park.
+
+Richmond County (Staten Island) - from 16.0 inches at Eltingville to 17.0 inches at Dongan Hills.
+
+Kings County (Brooklyn) - from 15.1 inches at Brooklyn to 17.5 inches at Sheepshead Bay.
+
+Queens County - from 11.1 inches at LaGuardia Airport to 15.5 inches at Fresh Meadows.  At John F. Kennedy Airport, 11.8 inches of snow was measured.
+
+Nassau County - from 11.3 inches at Great Neck to 16.5 inches at Farmingdale.
+
+Suffolk County - from 10.4 inches at Shirley to 19.5 inches at Baiting Hollow and Lake Ronkonkoma.  The NWS Upton Office measured 17.5 inches.  At Islip Airport, 15.1 inches of snow was measured.
+
+Concerning coastal flooding, pockets of moderate flooding occurred across Eastern Long Island.  The Southampton Town Office of Emergency Management reported moderate flooding in Flanders along the south side of Flanders Bay during Sunday morning's high tide around 10 am.  Two families evacuated their homes up to 2 blocks inland along Pine Road, where 2 to 3 feet of water surged inland.  Moderate tidal flooding occurred along Dune Road near Mermaid Lane in Southampton, where up to 3 to 4 feet of water covered the area during Sunday morning's high tide between 6:30 am and 8:30 am.  In Bayville, waves broke over barriers and encased lamp posts and wires in sheets of ice.",59
+5433550,NORTHWEST SUFFOLK (ZONE), ,01/22/2005,1830,Heavy Snow, , ,0,0,0,0,NY,EST, ,1183728,Z,78,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,01/22/2005,1830, , , , ,"","
+With cold air in place, as an Alberta Clipper moved southeast across the Ohio Valley, it weakened and redeveloped off the DELMARVA Coast during Saturday, January 22nd.  This low rapidly intensified as it moved south of Long Island Saturday night and offshore Sunday.  These systems produced near blizzard conditions with heavy snow, strong and gusty winds, blowing snow, and drifting snow.  Widespread moderate beach erosion and minor tidal flooding occurred across the Atlantic Ocean shores and east end from Saturday afternoon through Sunday morning, January 23rd.
+
+Light snow spread northeast across the region between 11 am and 1 pm, although patches of light snow occurred across the twin forks of Long Island between 9 am and 10 am.  It quickly became heavy, falling at a rate of at least 1 inch per hour, between 1 pm and 3 pm and lasted until between 7 pm and 11 pm.  Across the Lower Hudson Valley, temperatures rose from the single digits into the teens as northeast winds increased up to 15 to 25 mph during this time.  Across New York City and Long Island, temperatures rose from the teens into the 20s as northeast winds increased up to 20 to 30 mph during this time.  Driving was hazardous and there were widespread impacts to mass transit.  As the snowfall intensity decreased during Saturday night, north winds increased to 20 to 30 mph with gusts between 35 and 50 mph.  A few peak gusts near 65 mph occurred across the twin forks of Long Island.  Peak gusts at Shinnecock Inlet and Orient Point were measured at 64 and 63 mph, respectively.  This caused blowing and drifting snow through Sunday, January 23rd.
+
+Storm total snowfalls ranged from around 7 to 20 inches across the region.  Most locations measured between 8 and 16 inches.  Here are selected snowfall amounts for:
+
+Orange County - from 8.0 inches at Campbell Hall to 15.0 inches at Highland Mills.
+
+Putnam County - from 8.0 inches at Kent Cliffs to 12.0 inches at Mahopac.
+
+Rockland County - from 8.5 inches at Monsey to 10.8 inches at New City.
+
+Westchester County - from 8.0 inches at Port Chester, Eastchester, and Ardsley to 15.0 inches at Pound Ridge.
+
+Bronx County - from 6.5 inches at Throgs Neck to 11.6 inches at Parkchester.
+
+New York County (Manhattan) - from 13.0 inches at Chinatown to 13.8 inches at Central Park.
+
+Richmond County (Staten Island) - from 16.0 inches at Eltingville to 17.0 inches at Dongan Hills.
+
+Kings County (Brooklyn) - from 15.1 inches at Brooklyn to 17.5 inches at Sheepshead Bay.
+
+Queens County - from 11.1 inches at LaGuardia Airport to 15.5 inches at Fresh Meadows.  At John F. Kennedy Airport, 11.8 inches of snow was measured.
+
+Nassau County - from 11.3 inches at Great Neck to 16.5 inches at Farmingdale.
+
+Suffolk County - from 10.4 inches at Shirley to 19.5 inches at Baiting Hollow and Lake Ronkonkoma.  The NWS Upton Office measured 17.5 inches.  At Islip Airport, 15.1 inches of snow was measured.
+
+Concerning coastal flooding, pockets of moderate flooding occurred across Eastern Long Island.  The Southampton Town Office of Emergency Management reported moderate flooding in Flanders along the south side of Flanders Bay during Sunday morning's high tide around 10 am.  Two families evacuated their homes up to 2 blocks inland along Pine Road, where 2 to 3 feet of water surged inland.  Moderate tidal flooding occurred along Dune Road near Mermaid Lane in Southampton, where up to 3 to 4 feet of water covered the area during Sunday morning's high tide between 6:30 am and 8:30 am.  In Bayville, waves broke over barriers and encased lamp posts and wires in sheets of ice.",60
+5433551,NORTHEAST SUFFOLK (ZONE), ,01/22/2005,1830,Heavy Snow, , ,0,0,0,0,NY,EST, ,1183728,Z,79,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,01/22/2005,1830, , , , ,"","
+With cold air in place, as an Alberta Clipper moved southeast across the Ohio Valley, it weakened and redeveloped off the DELMARVA Coast during Saturday, January 22nd.  This low rapidly intensified as it moved south of Long Island Saturday night and offshore Sunday.  These systems produced near blizzard conditions with heavy snow, strong and gusty winds, blowing snow, and drifting snow.  Widespread moderate beach erosion and minor tidal flooding occurred across the Atlantic Ocean shores and east end from Saturday afternoon through Sunday morning, January 23rd.
+
+Light snow spread northeast across the region between 11 am and 1 pm, although patches of light snow occurred across the twin forks of Long Island between 9 am and 10 am.  It quickly became heavy, falling at a rate of at least 1 inch per hour, between 1 pm and 3 pm and lasted until between 7 pm and 11 pm.  Across the Lower Hudson Valley, temperatures rose from the single digits into the teens as northeast winds increased up to 15 to 25 mph during this time.  Across New York City and Long Island, temperatures rose from the teens into the 20s as northeast winds increased up to 20 to 30 mph during this time.  Driving was hazardous and there were widespread impacts to mass transit.  As the snowfall intensity decreased during Saturday night, north winds increased to 20 to 30 mph with gusts between 35 and 50 mph.  A few peak gusts near 65 mph occurred across the twin forks of Long Island.  Peak gusts at Shinnecock Inlet and Orient Point were measured at 64 and 63 mph, respectively.  This caused blowing and drifting snow through Sunday, January 23rd.
+
+Storm total snowfalls ranged from around 7 to 20 inches across the region.  Most locations measured between 8 and 16 inches.  Here are selected snowfall amounts for:
+
+Orange County - from 8.0 inches at Campbell Hall to 15.0 inches at Highland Mills.
+
+Putnam County - from 8.0 inches at Kent Cliffs to 12.0 inches at Mahopac.
+
+Rockland County - from 8.5 inches at Monsey to 10.8 inches at New City.
+
+Westchester County - from 8.0 inches at Port Chester, Eastchester, and Ardsley to 15.0 inches at Pound Ridge.
+
+Bronx County - from 6.5 inches at Throgs Neck to 11.6 inches at Parkchester.
+
+New York County (Manhattan) - from 13.0 inches at Chinatown to 13.8 inches at Central Park.
+
+Richmond County (Staten Island) - from 16.0 inches at Eltingville to 17.0 inches at Dongan Hills.
+
+Kings County (Brooklyn) - from 15.1 inches at Brooklyn to 17.5 inches at Sheepshead Bay.
+
+Queens County - from 11.1 inches at LaGuardia Airport to 15.5 inches at Fresh Meadows.  At John F. Kennedy Airport, 11.8 inches of snow was measured.
+
+Nassau County - from 11.3 inches at Great Neck to 16.5 inches at Farmingdale.
+
+Suffolk County - from 10.4 inches at Shirley to 19.5 inches at Baiting Hollow and Lake Ronkonkoma.  The NWS Upton Office measured 17.5 inches.  At Islip Airport, 15.1 inches of snow was measured.
+
+Concerning coastal flooding, pockets of moderate flooding occurred across Eastern Long Island.  The Southampton Town Office of Emergency Management reported moderate flooding in Flanders along the south side of Flanders Bay during Sunday morning's high tide around 10 am.  Two families evacuated their homes up to 2 blocks inland along Pine Road, where 2 to 3 feet of water surged inland.  Moderate tidal flooding occurred along Dune Road near Mermaid Lane in Southampton, where up to 3 to 4 feet of water covered the area during Sunday morning's high tide between 6:30 am and 8:30 am.  In Bayville, waves broke over barriers and encased lamp posts and wires in sheets of ice.",61
+5433556,SOUTHEAST SUFFOLK (ZONE), ,01/22/2005,2000,Heavy Snow, , ,0,0,0,0,NY,EST, ,1183728,Z,81,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,01/22/2005,2000, , , , ,"","
+With cold air in place, as an Alberta Clipper moved southeast across the Ohio Valley, it weakened and redeveloped off the DELMARVA Coast during Saturday, January 22nd.  This low rapidly intensified as it moved south of Long Island Saturday night and offshore Sunday.  These systems produced near blizzard conditions with heavy snow, strong and gusty winds, blowing snow, and drifting snow.  Widespread moderate beach erosion and minor tidal flooding occurred across the Atlantic Ocean shores and east end from Saturday afternoon through Sunday morning, January 23rd.
+
+Light snow spread northeast across the region between 11 am and 1 pm, although patches of light snow occurred across the twin forks of Long Island between 9 am and 10 am.  It quickly became heavy, falling at a rate of at least 1 inch per hour, between 1 pm and 3 pm and lasted until between 7 pm and 11 pm.  Across the Lower Hudson Valley, temperatures rose from the single digits into the teens as northeast winds increased up to 15 to 25 mph during this time.  Across New York City and Long Island, temperatures rose from the teens into the 20s as northeast winds increased up to 20 to 30 mph during this time.  Driving was hazardous and there were widespread impacts to mass transit.  As the snowfall intensity decreased during Saturday night, north winds increased to 20 to 30 mph with gusts between 35 and 50 mph.  A few peak gusts near 65 mph occurred across the twin forks of Long Island.  Peak gusts at Shinnecock Inlet and Orient Point were measured at 64 and 63 mph, respectively.  This caused blowing and drifting snow through Sunday, January 23rd.
+
+Storm total snowfalls ranged from around 7 to 20 inches across the region.  Most locations measured between 8 and 16 inches.  Here are selected snowfall amounts for:
+
+Orange County - from 8.0 inches at Campbell Hall to 15.0 inches at Highland Mills.
+
+Putnam County - from 8.0 inches at Kent Cliffs to 12.0 inches at Mahopac.
+
+Rockland County - from 8.5 inches at Monsey to 10.8 inches at New City.
+
+Westchester County - from 8.0 inches at Port Chester, Eastchester, and Ardsley to 15.0 inches at Pound Ridge.
+
+Bronx County - from 6.5 inches at Throgs Neck to 11.6 inches at Parkchester.
+
+New York County (Manhattan) - from 13.0 inches at Chinatown to 13.8 inches at Central Park.
+
+Richmond County (Staten Island) - from 16.0 inches at Eltingville to 17.0 inches at Dongan Hills.
+
+Kings County (Brooklyn) - from 15.1 inches at Brooklyn to 17.5 inches at Sheepshead Bay.
+
+Queens County - from 11.1 inches at LaGuardia Airport to 15.5 inches at Fresh Meadows.  At John F. Kennedy Airport, 11.8 inches of snow was measured.
+
+Nassau County - from 11.3 inches at Great Neck to 16.5 inches at Farmingdale.
+
+Suffolk County - from 10.4 inches at Shirley to 19.5 inches at Baiting Hollow and Lake Ronkonkoma.  The NWS Upton Office measured 17.5 inches.  At Islip Airport, 15.1 inches of snow was measured.
+
+Concerning coastal flooding, pockets of moderate flooding occurred across Eastern Long Island.  The Southampton Town Office of Emergency Management reported moderate flooding in Flanders along the south side of Flanders Bay during Sunday morning's high tide around 10 am.  Two families evacuated their homes up to 2 blocks inland along Pine Road, where 2 to 3 feet of water surged inland.  Moderate tidal flooding occurred along Dune Road near Mermaid Lane in Southampton, where up to 3 to 4 feet of water covered the area during Sunday morning's high tide between 6:30 am and 8:30 am.  In Bayville, waves broke over barriers and encased lamp posts and wires in sheets of ice.",62
+5436954,NORTHWEST SUFFOLK (ZONE), ,02/21/2005,700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1185029,Z,78,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/21/2005,700, , , , ,"","
+As a cold Canadian air mass moved slowly east off the New England Coast, a weak wave of low pressure moved east toward New York State.  A warm front extended southeast from this low, south of Long Island, where a second weak wave of low pressure developed.
+
+Bands of moderate to heavy snow developed between 10 pm and midnight and moved slowly northeast across the region, before dissipating around 7 am. The broadcast media reported numerous traffic accidents during this entire event.
+
+Storm Total Snowfall amounts ranged from 5 to 8 inches, as follows:
+
+Orange County - from 5.0 inches at Newburgh to 8.0 inches at Montgomery.
+
+Putnam County - from 7.3 inches at Kent Hill to 8.0 inches at Patterson.
+
+Rockland County - from 6.8 inches at Sparkill to 7.5 inches at Stony Point.
+
+Westchester County - from 6.0 inches at Yorktown Heights to 8.4 inches at White Plains.
+
+Bronx County - from 6.0 inches at Pelham Parkway to 7.0 inches at Riverdale.
+
+New York County (Manhattan) - from 5.0 inches at the Central Park Zoo to 6.0 inches on the Upper West Side near Washington Heights.
+
+Suffolk County - from 5.1 inches at Mastic to 6.8 inches at Setauket.",63
+5436957,SOUTHEAST SUFFOLK (ZONE), ,02/21/2005,700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1185029,Z,81,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/21/2005,700, , , , ,"","
+As a cold Canadian air mass moved slowly east off the New England Coast, a weak wave of low pressure moved east toward New York State.  A warm front extended southeast from this low, south of Long Island, where a second weak wave of low pressure developed.
+
+Bands of moderate to heavy snow developed between 10 pm and midnight and moved slowly northeast across the region, before dissipating around 7 am. The broadcast media reported numerous traffic accidents during this entire event.
+
+Storm Total Snowfall amounts ranged from 5 to 8 inches, as follows:
+
+Orange County - from 5.0 inches at Newburgh to 8.0 inches at Montgomery.
+
+Putnam County - from 7.3 inches at Kent Hill to 8.0 inches at Patterson.
+
+Rockland County - from 6.8 inches at Sparkill to 7.5 inches at Stony Point.
+
+Westchester County - from 6.0 inches at Yorktown Heights to 8.4 inches at White Plains.
+
+Bronx County - from 6.0 inches at Pelham Parkway to 7.0 inches at Riverdale.
+
+New York County (Manhattan) - from 5.0 inches at the Central Park Zoo to 6.0 inches on the Upper West Side near Washington Heights.
+
+Suffolk County - from 5.1 inches at Mastic to 6.8 inches at Setauket.",64
+5436956,NORTHEAST SUFFOLK (ZONE), ,02/21/2005,700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1185029,Z,79,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/21/2005,700, , , , ,"","
+As a cold Canadian air mass moved slowly east off the New England Coast, a weak wave of low pressure moved east toward New York State.  A warm front extended southeast from this low, south of Long Island, where a second weak wave of low pressure developed.
+
+Bands of moderate to heavy snow developed between 10 pm and midnight and moved slowly northeast across the region, before dissipating around 7 am. The broadcast media reported numerous traffic accidents during this entire event.
+
+Storm Total Snowfall amounts ranged from 5 to 8 inches, as follows:
+
+Orange County - from 5.0 inches at Newburgh to 8.0 inches at Montgomery.
+
+Putnam County - from 7.3 inches at Kent Hill to 8.0 inches at Patterson.
+
+Rockland County - from 6.8 inches at Sparkill to 7.5 inches at Stony Point.
+
+Westchester County - from 6.0 inches at Yorktown Heights to 8.4 inches at White Plains.
+
+Bronx County - from 6.0 inches at Pelham Parkway to 7.0 inches at Riverdale.
+
+New York County (Manhattan) - from 5.0 inches at the Central Park Zoo to 6.0 inches on the Upper West Side near Washington Heights.
+
+Suffolk County - from 5.1 inches at Mastic to 6.8 inches at Setauket.",65
+5436955,SOUTHWEST SUFFOLK (ZONE), ,02/21/2005,700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1185029,Z,80,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/21/2005,700, , , , ,"","
+As a cold Canadian air mass moved slowly east off the New England Coast, a weak wave of low pressure moved east toward New York State.  A warm front extended southeast from this low, south of Long Island, where a second weak wave of low pressure developed.
+
+Bands of moderate to heavy snow developed between 10 pm and midnight and moved slowly northeast across the region, before dissipating around 7 am. The broadcast media reported numerous traffic accidents during this entire event.
+
+Storm Total Snowfall amounts ranged from 5 to 8 inches, as follows:
+
+Orange County - from 5.0 inches at Newburgh to 8.0 inches at Montgomery.
+
+Putnam County - from 7.3 inches at Kent Hill to 8.0 inches at Patterson.
+
+Rockland County - from 6.8 inches at Sparkill to 7.5 inches at Stony Point.
+
+Westchester County - from 6.0 inches at Yorktown Heights to 8.4 inches at White Plains.
+
+Bronx County - from 6.0 inches at Pelham Parkway to 7.0 inches at Riverdale.
+
+New York County (Manhattan) - from 5.0 inches at the Central Park Zoo to 6.0 inches on the Upper West Side near Washington Heights.
+
+Suffolk County - from 5.1 inches at Mastic to 6.8 inches at Setauket.",66
+5437685,NORTHWEST SUFFOLK (ZONE), ,02/25/2005,400,Heavy Snow, , ,0,0,0,0,NY,EST, ,1185035,Z,78,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/25/2005,400, , , , ,"","
+With a cold high pressure system north of the region, a low pressure system developed off the North Carolina coast during Thursday, February 24th.  This low intensified as it moved northeast, passing across the offshore waters southeast of Long Island during Thursday night.
+
+Light snow developed across the region between 2 pm and 5 pm Thursday afternoon, February 24th.  Widespread moderate to heavy snow fell between 5 pm and 4:30 am, ending from northwest to southeast.  Storm total snowfall amounts ranged from 5 to 9 inches.  Here are selected snowfall amounts for:
+
+Southern Westchester County - from 5.5 inches at White Plains to 5.8 inches at Yonkers and Bronxville.
+
+New York County (Manhattan) - 6.0 inches was measured at the Central Park Zoo.
+
+Richmond County (Staten Island) - 6.0 inches was measured at Grasmere.
+
+Kings County (Brooklyn) - 6.0 inches was measured at Sheepshead Bay.
+
+Queens County - from 5.0 inches at JFK Airport to 6.0 inches at LaGuardia Airport.
+
+Nassau County - from 5.0 inches at Merrick and Lynbrook to 6.8 inches at Bellmore.
+
+Suffolk County - from 5.5 inches at Bayshore and Bridgehampton to 9.4 inches at Shoreham.  At the NWS Office in Upton, 8.7 inches was measured.  At Islip Airport, 5.8 inches was measured.",67
+5437686,SOUTHWEST SUFFOLK (ZONE), ,02/25/2005,400,Heavy Snow, , ,0,0,0,0,NY,EST, ,1185035,Z,80,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/25/2005,400, , , , ,"","
+With a cold high pressure system north of the region, a low pressure system developed off the North Carolina coast during Thursday, February 24th.  This low intensified as it moved northeast, passing across the offshore waters southeast of Long Island during Thursday night.
+
+Light snow developed across the region between 2 pm and 5 pm Thursday afternoon, February 24th.  Widespread moderate to heavy snow fell between 5 pm and 4:30 am, ending from northwest to southeast.  Storm total snowfall amounts ranged from 5 to 9 inches.  Here are selected snowfall amounts for:
+
+Southern Westchester County - from 5.5 inches at White Plains to 5.8 inches at Yonkers and Bronxville.
+
+New York County (Manhattan) - 6.0 inches was measured at the Central Park Zoo.
+
+Richmond County (Staten Island) - 6.0 inches was measured at Grasmere.
+
+Kings County (Brooklyn) - 6.0 inches was measured at Sheepshead Bay.
+
+Queens County - from 5.0 inches at JFK Airport to 6.0 inches at LaGuardia Airport.
+
+Nassau County - from 5.0 inches at Merrick and Lynbrook to 6.8 inches at Bellmore.
+
+Suffolk County - from 5.5 inches at Bayshore and Bridgehampton to 9.4 inches at Shoreham.  At the NWS Office in Upton, 8.7 inches was measured.  At Islip Airport, 5.8 inches was measured.",68
+5437687,NORTHEAST SUFFOLK (ZONE), ,02/25/2005,430,Heavy Snow, , ,0,0,0,0,NY,EST, ,1185035,Z,79,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/25/2005,430, , , , ,"","
+With a cold high pressure system north of the region, a low pressure system developed off the North Carolina coast during Thursday, February 24th.  This low intensified as it moved northeast, passing across the offshore waters southeast of Long Island during Thursday night.
+
+Light snow developed across the region between 2 pm and 5 pm Thursday afternoon, February 24th.  Widespread moderate to heavy snow fell between 5 pm and 4:30 am, ending from northwest to southeast.  Storm total snowfall amounts ranged from 5 to 9 inches.  Here are selected snowfall amounts for:
+
+Southern Westchester County - from 5.5 inches at White Plains to 5.8 inches at Yonkers and Bronxville.
+
+New York County (Manhattan) - 6.0 inches was measured at the Central Park Zoo.
+
+Richmond County (Staten Island) - 6.0 inches was measured at Grasmere.
+
+Kings County (Brooklyn) - 6.0 inches was measured at Sheepshead Bay.
+
+Queens County - from 5.0 inches at JFK Airport to 6.0 inches at LaGuardia Airport.
+
+Nassau County - from 5.0 inches at Merrick and Lynbrook to 6.8 inches at Bellmore.
+
+Suffolk County - from 5.5 inches at Bayshore and Bridgehampton to 9.4 inches at Shoreham.  At the NWS Office in Upton, 8.7 inches was measured.  At Islip Airport, 5.8 inches was measured.",69
+5437688,SOUTHEAST SUFFOLK (ZONE), ,02/25/2005,430,Heavy Snow, , ,0,0,0,0,NY,EST, ,1185035,Z,81,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/25/2005,430, , , , ,"","
+With a cold high pressure system north of the region, a low pressure system developed off the North Carolina coast during Thursday, February 24th.  This low intensified as it moved northeast, passing across the offshore waters southeast of Long Island during Thursday night.
+
+Light snow developed across the region between 2 pm and 5 pm Thursday afternoon, February 24th.  Widespread moderate to heavy snow fell between 5 pm and 4:30 am, ending from northwest to southeast.  Storm total snowfall amounts ranged from 5 to 9 inches.  Here are selected snowfall amounts for:
+
+Southern Westchester County - from 5.5 inches at White Plains to 5.8 inches at Yonkers and Bronxville.
+
+New York County (Manhattan) - 6.0 inches was measured at the Central Park Zoo.
+
+Richmond County (Staten Island) - 6.0 inches was measured at Grasmere.
+
+Kings County (Brooklyn) - 6.0 inches was measured at Sheepshead Bay.
+
+Queens County - from 5.0 inches at JFK Airport to 6.0 inches at LaGuardia Airport.
+
+Nassau County - from 5.0 inches at Merrick and Lynbrook to 6.8 inches at Bellmore.
+
+Suffolk County - from 5.5 inches at Bayshore and Bridgehampton to 9.4 inches at Shoreham.  At the NWS Office in Upton, 8.7 inches was measured.  At Islip Airport, 5.8 inches was measured.",70
+5442559,NORTHWEST SUFFOLK (ZONE), ,03/01/2005,700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1186713,Z,78,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,03/01/2005,700, , , , ,"","
+A weak high pressure ridge extended southwest across the region from New England as a low pressure system intensified and moved northeast.  This strong low passed south of Long Island Monday night and east of the New England coast during Tuesday.
+
+Light snow developed northeast across the region between 1 and 4 pm Monday afternoon.  As the low rapidly intensified and moved closer to the region, narrow bands of heavy snow swept northeast across the region.  The last band of heavy snow swept northeast across the region between 7:30 am and 8:30 am Tuesday morning, March 1st.  Storm Total Snowfall amounts ranged from 5 to 9 inches.
+
+Here are selected snowfall totals for:
+
+Rockland County - from 7.2 inches at New City to 8.0 inches at Sloatsburg.
+
+Westchester County - from 5.0 inches at Scarsdale to 8.0 inches at Yorktown Heights.
+
+Putnam County - from 6.5 inches at Lake Peekskill to 8.5 inches at Lake Carmel.
+
+New York (Manhattan) - 7.5 inches was measured at the Central Park Zoo.
+
+Richmond (Staten Island) - from 6.1 inches at Bulls Head to 6.5 inches at New Dorf.
+
+Kings (Brooklyn) - from 5.0 inches at Graves End to 6.0 inches at Sheepshead Bay.
+
+Queens County - from 5.0 inches at JFK Airport to 7.0 inches at LaGuardia Airport.
+
+Suffolk County - from 5.5 inches at the NWS Office in Upton, Sag Harbor, Patchogue, and Deer Park to 7.2 inches in Smithtown.  At Islip Airport, 6.6 inches was measured.",71
+5442560,NORTHEAST SUFFOLK (ZONE), ,03/01/2005,730,Heavy Snow, , ,0,0,0,0,NY,EST, ,1186713,Z,79,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,03/01/2005,730, , , , ,"","
+A weak high pressure ridge extended southwest across the region from New England as a low pressure system intensified and moved northeast.  This strong low passed south of Long Island Monday night and east of the New England coast during Tuesday.
+
+Light snow developed northeast across the region between 1 and 4 pm Monday afternoon.  As the low rapidly intensified and moved closer to the region, narrow bands of heavy snow swept northeast across the region.  The last band of heavy snow swept northeast across the region between 7:30 am and 8:30 am Tuesday morning, March 1st.  Storm Total Snowfall amounts ranged from 5 to 9 inches.
+
+Here are selected snowfall totals for:
+
+Rockland County - from 7.2 inches at New City to 8.0 inches at Sloatsburg.
+
+Westchester County - from 5.0 inches at Scarsdale to 8.0 inches at Yorktown Heights.
+
+Putnam County - from 6.5 inches at Lake Peekskill to 8.5 inches at Lake Carmel.
+
+New York (Manhattan) - 7.5 inches was measured at the Central Park Zoo.
+
+Richmond (Staten Island) - from 6.1 inches at Bulls Head to 6.5 inches at New Dorf.
+
+Kings (Brooklyn) - from 5.0 inches at Graves End to 6.0 inches at Sheepshead Bay.
+
+Queens County - from 5.0 inches at JFK Airport to 7.0 inches at LaGuardia Airport.
+
+Suffolk County - from 5.5 inches at the NWS Office in Upton, Sag Harbor, Patchogue, and Deer Park to 7.2 inches in Smithtown.  At Islip Airport, 6.6 inches was measured.",72
+5442561,SOUTHEAST SUFFOLK (ZONE), ,03/01/2005,730,Heavy Snow, , ,0,0,0,0,NY,EST, ,1186713,Z,81,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,03/01/2005,730, , , , ,"","
+A weak high pressure ridge extended southwest across the region from New England as a low pressure system intensified and moved northeast.  This strong low passed south of Long Island Monday night and east of the New England coast during Tuesday.
+
+Light snow developed northeast across the region between 1 and 4 pm Monday afternoon.  As the low rapidly intensified and moved closer to the region, narrow bands of heavy snow swept northeast across the region.  The last band of heavy snow swept northeast across the region between 7:30 am and 8:30 am Tuesday morning, March 1st.  Storm Total Snowfall amounts ranged from 5 to 9 inches.
+
+Here are selected snowfall totals for:
+
+Rockland County - from 7.2 inches at New City to 8.0 inches at Sloatsburg.
+
+Westchester County - from 5.0 inches at Scarsdale to 8.0 inches at Yorktown Heights.
+
+Putnam County - from 6.5 inches at Lake Peekskill to 8.5 inches at Lake Carmel.
+
+New York (Manhattan) - 7.5 inches was measured at the Central Park Zoo.
+
+Richmond (Staten Island) - from 6.1 inches at Bulls Head to 6.5 inches at New Dorf.
+
+Kings (Brooklyn) - from 5.0 inches at Graves End to 6.0 inches at Sheepshead Bay.
+
+Queens County - from 5.0 inches at JFK Airport to 7.0 inches at LaGuardia Airport.
+
+Suffolk County - from 5.5 inches at the NWS Office in Upton, Sag Harbor, Patchogue, and Deer Park to 7.2 inches in Smithtown.  At Islip Airport, 6.6 inches was measured.",73
+5442566,NORTHWEST SUFFOLK (ZONE), ,03/12/2005,800,Heavy Snow, , ,0,0,0,0,NY,EST, ,1186716,Z,78,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,03/12/2005,800, , , , ,"","
+A low pressure system developed southeast of Long Island before sunrise on Saturday March 12th.  This low quickly intensified as it  moved northeast.  It passed near Nantucket during Saturday afternoon and moved east of Cape Cod by Saturday evening.
+
+Light rain developed across the Atlantic coastal waters just south of Long Island between 1 am and 2 am.  As the rainfall intensity increased, it quickly changed to heavy wet snow.  The band of heavy snow developed from western and central Suffolk County north across New Haven County CT.  A few areas, mainly east of Patchogue, experienced snowfall rates in excess of 2 inches per hour.
+
+Storm total snowfall amounts ranged from around 5 to 8 inches.  Here are selected amounts of at least 6 inches:
+
+Patchogue - 8 inches
+Lake Ronkonkoma - 7.5 inches
+Rocky Point - 6.8 inches 
+Mount Sinai - 6.7 inches
+Sayville - 6.5 inches
+Shoreham - 6.4 inches
+Port Jefferson - 6.3 inches
+Medford and North Patchogue - 6.0 inches",74
+5442567,SOUTHWEST SUFFOLK (ZONE), ,03/12/2005,800,Heavy Snow, , ,0,0,0,0,NY,EST, ,1186716,Z,80,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,03/12/2005,800, , , , ,"","
+A low pressure system developed southeast of Long Island before sunrise on Saturday March 12th.  This low quickly intensified as it  moved northeast.  It passed near Nantucket during Saturday afternoon and moved east of Cape Cod by Saturday evening.
+
+Light rain developed across the Atlantic coastal waters just south of Long Island between 1 am and 2 am.  As the rainfall intensity increased, it quickly changed to heavy wet snow.  The band of heavy snow developed from western and central Suffolk County north across New Haven County CT.  A few areas, mainly east of Patchogue, experienced snowfall rates in excess of 2 inches per hour.
+
+Storm total snowfall amounts ranged from around 5 to 8 inches.  Here are selected amounts of at least 6 inches:
+
+Patchogue - 8 inches
+Lake Ronkonkoma - 7.5 inches
+Rocky Point - 6.8 inches 
+Mount Sinai - 6.7 inches
+Sayville - 6.5 inches
+Shoreham - 6.4 inches
+Port Jefferson - 6.3 inches
+Medford and North Patchogue - 6.0 inches",75
+5482749,NORTHEAST SUFFOLK (ZONE), ,12/06/2005,700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1202596,Z,79,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,12/06/2005,700, , , , ,"","
+A low pressure system developed off the southeast U.S. coast Monday morning, December 5th.  This low gradually intensified as it moved northeast and passed southeast of Long Island Monday night. 
+
+Snow developed during Monday afternoon.  Periods of heavy snow occurred during Monday night.
+
+Here are selected snowfall amounts for Eastern Suffolk County:
+
+5.5 inches was measured at Moriches and Patchogue Village
+6.0 inches was measured at Bridgehampton and East Quogue.",76
+5482750,SOUTHEAST SUFFOLK (ZONE), ,12/06/2005,700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1202596,Z,81,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,12/06/2005,700, , , , ,"","
+A low pressure system developed off the southeast U.S. coast Monday morning, December 5th.  This low gradually intensified as it moved northeast and passed southeast of Long Island Monday night. 
+
+Snow developed during Monday afternoon.  Periods of heavy snow occurred during Monday night.
+
+Here are selected snowfall amounts for Eastern Suffolk County:
+
+5.5 inches was measured at Moriches and Patchogue Village
+6.0 inches was measured at Bridgehampton and East Quogue.",77
+5491687,SOUTHWEST SUFFOLK (ZONE), ,02/12/2006,700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1204309,Z,80,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/12/2006,700, , , , ,"","
+An area of low pressure developed along the Gulf Coast states on Friday, February 10th, and began moving northeast toward the North Carolina coast during Saturday.  The storm rapidly intensified as it moved northeastward just off the New England coast.  Snow spread north across the area on Saturday from early to late afternoon.  The snow fell steadily and heavily at times in many areas overnight Saturday and into Sunday morning, until the last band of heavy snow swept east of Long Island late Sunday afternoon.
+
+During the event, many areas experienced very heavy snowfall rates, up to 3 to 4 inches per hour.  As the strongest band of snow moved through the lower Hudson Valley and New York City, reports of "thundersnow" were received, which supported the very intense snowfall rates.  The highest snowfall amounts fell across New York City and Westchester County with 15 to 27 inches.  Elsewhere, 10 to 20 inches of snowfall was common.
+
+Winds ranged from 20 to 30 mph with gusts over 50 mph along the coast.  Snow and blowing snow created near blizzard conditions with very hazardous driving conditions due to poor visibilities in many areas.
+
+The following are select snowfall amounts across coastal southeast New York:
+
+Westchester County
+Range: 16 to 25 inches
+New Rochelle  - 24.5 inches
+White Plains - 21.5 inches
+
+New York County (Manhattan)
+Range: 25 to 27 inches
+Central Park  - 26.9 inches (All-Time Record)
+
+Bronx County
+Range: 17 to 25 inches
+
+Richmond County (Staten Island)
+Range: 15 to 22 inches
+Clove Lakes Park - 22 inches
+
+Kings County (Brooklyn)
+Range: 17 to 20 inches
+Brooklyn Marine Park 19.5 inches
+
+Queens County
+Range: 17 to 26 inches
+Astoria - 26 inches
+La Guardia Airport - 25.4 inches
+JFK Airport - 16.7 inches
+
+Nassau County
+Range: 10 to 24 inches
+Great Neck - 23.6 inches
+Farmingdale - 17.5 inches
+
+Suffolk County
+Range: 9 to 20 inches
+Islip - 20 inches",78
+5491429,NORTHWEST SUFFOLK (ZONE), ,02/12/2006,700,Heavy Snow, , ,0,0,0,0,NY,EST, ,1204309,Z,78,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/12/2006,700, , , , ,"","
+An area of low pressure developed along the Gulf Coast states on Friday, February 10th, and began moving northeast toward the North Carolina coast during Saturday.  The storm rapidly intensified as it moved northeastward just off the New England coast.  Snow spread north across the area on Saturday from early to late afternoon.  The snow fell steadily and heavily at times in many areas overnight Saturday and into Sunday morning, until the last band of heavy snow swept east of Long Island late Sunday afternoon.
+
+During the event, many areas experienced very heavy snowfall rates, up to 3 to 4 inches per hour.  As the strongest band of snow moved through the lower Hudson Valley and New York City, reports of "thundersnow" were received, which supported the very intense snowfall rates.  The highest snowfall amounts fell across New York City and Westchester County with 15 to 27 inches.  Elsewhere, 10 to 20 inches of snowfall was common.
+
+Winds ranged from 20 to 30 mph with gusts over 50 mph along the coast.  Snow and blowing snow created near blizzard conditions with very hazardous driving conditions due to poor visibilities in many areas.
+
+The following are select snowfall amounts across coastal southeast New York:
+
+Westchester County
+Range: 16 to 25 inches
+New Rochelle  - 24.5 inches
+White Plains - 21.5 inches
+
+New York County (Manhattan)
+Range: 25 to 27 inches
+Central Park  - 26.9 inches (All-Time Record)
+
+Bronx County
+Range: 17 to 25 inches
+
+Richmond County (Staten Island)
+Range: 15 to 22 inches
+Clove Lakes Park - 22 inches
+
+Kings County (Brooklyn)
+Range: 17 to 20 inches
+Brooklyn Marine Park 19.5 inches
+
+Queens County
+Range: 17 to 26 inches
+Astoria - 26 inches
+La Guardia Airport - 25.4 inches
+JFK Airport - 16.7 inches
+
+Nassau County
+Range: 10 to 24 inches
+Great Neck - 23.6 inches
+Farmingdale - 17.5 inches
+
+Suffolk County
+Range: 9 to 20 inches
+Islip - 20 inches",79
+5491688,SOUTHEAST SUFFOLK (ZONE), ,02/12/2006,1000,Heavy Snow, , ,0,0,0,0,NY,EST, ,1204309,Z,81,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/12/2006,1000, , , , ,"","
+An area of low pressure developed along the Gulf Coast states on Friday, February 10th, and began moving northeast toward the North Carolina coast during Saturday.  The storm rapidly intensified as it moved northeastward just off the New England coast.  Snow spread north across the area on Saturday from early to late afternoon.  The snow fell steadily and heavily at times in many areas overnight Saturday and into Sunday morning, until the last band of heavy snow swept east of Long Island late Sunday afternoon.
+
+During the event, many areas experienced very heavy snowfall rates, up to 3 to 4 inches per hour.  As the strongest band of snow moved through the lower Hudson Valley and New York City, reports of "thundersnow" were received, which supported the very intense snowfall rates.  The highest snowfall amounts fell across New York City and Westchester County with 15 to 27 inches.  Elsewhere, 10 to 20 inches of snowfall was common.
+
+Winds ranged from 20 to 30 mph with gusts over 50 mph along the coast.  Snow and blowing snow created near blizzard conditions with very hazardous driving conditions due to poor visibilities in many areas.
+
+The following are select snowfall amounts across coastal southeast New York:
+
+Westchester County
+Range: 16 to 25 inches
+New Rochelle  - 24.5 inches
+White Plains - 21.5 inches
+
+New York County (Manhattan)
+Range: 25 to 27 inches
+Central Park  - 26.9 inches (All-Time Record)
+
+Bronx County
+Range: 17 to 25 inches
+
+Richmond County (Staten Island)
+Range: 15 to 22 inches
+Clove Lakes Park - 22 inches
+
+Kings County (Brooklyn)
+Range: 17 to 20 inches
+Brooklyn Marine Park 19.5 inches
+
+Queens County
+Range: 17 to 26 inches
+Astoria - 26 inches
+La Guardia Airport - 25.4 inches
+JFK Airport - 16.7 inches
+
+Nassau County
+Range: 10 to 24 inches
+Great Neck - 23.6 inches
+Farmingdale - 17.5 inches
+
+Suffolk County
+Range: 9 to 20 inches
+Islip - 20 inches",80
+5491686,NORTHEAST SUFFOLK (ZONE), ,02/12/2006,1000,Heavy Snow, , ,0,0,0,0,NY,EST, ,1204309,Z,79,OKX,0,0,TRAINED SPOTTER, , , , , , , , ,02/12/2006,1000, , , , ,"","
+An area of low pressure developed along the Gulf Coast states on Friday, February 10th, and began moving northeast toward the North Carolina coast during Saturday.  The storm rapidly intensified as it moved northeastward just off the New England coast.  Snow spread north across the area on Saturday from early to late afternoon.  The snow fell steadily and heavily at times in many areas overnight Saturday and into Sunday morning, until the last band of heavy snow swept east of Long Island late Sunday afternoon.
+
+During the event, many areas experienced very heavy snowfall rates, up to 3 to 4 inches per hour.  As the strongest band of snow moved through the lower Hudson Valley and New York City, reports of "thundersnow" were received, which supported the very intense snowfall rates.  The highest snowfall amounts fell across New York City and Westchester County with 15 to 27 inches.  Elsewhere, 10 to 20 inches of snowfall was common.
+
+Winds ranged from 20 to 30 mph with gusts over 50 mph along the coast.  Snow and blowing snow created near blizzard conditions with very hazardous driving conditions due to poor visibilities in many areas.
+
+The following are select snowfall amounts across coastal southeast New York:
+
+Westchester County
+Range: 16 to 25 inches
+New Rochelle  - 24.5 inches
+White Plains - 21.5 inches
+
+New York County (Manhattan)
+Range: 25 to 27 inches
+Central Park  - 26.9 inches (All-Time Record)
+
+Bronx County
+Range: 17 to 25 inches
+
+Richmond County (Staten Island)
+Range: 15 to 22 inches
+Clove Lakes Park - 22 inches
+
+Kings County (Brooklyn)
+Range: 17 to 20 inches
+Brooklyn Marine Park 19.5 inches
+
+Queens County
+Range: 17 to 26 inches
+Astoria - 26 inches
+La Guardia Airport - 25.4 inches
+JFK Airport - 16.7 inches
+
+Nassau County
+Range: 10 to 24 inches
+Great Neck - 23.6 inches
+Farmingdale - 17.5 inches
+
+Suffolk County
+Range: 9 to 20 inches
+Islip - 20 inches",81
+83537,NORTHWEST SUFFOLK (ZONE), ,02/22/2008,700,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,14735,Z,78,OKX,0,0,Trained Spotter, , , , , , , , ,02/22/2008,1700, , , , ,"","Polar high pressure over the northeast and low pressure developing on a coastal front along the southeast coast provided the ideal scenario for widespread heavy snowfall. This was the biggest event for the tri-state area during the 2007-2008 winter season. The low developed along the South Carolina coast Friday morning, February 22, and then tracked northeast. The storm took a track to approximately 125 miles southeast of Montauk Point, New York, in the evening.  While the low only dropped to 1002 mb late Friday night, the 1030 mb high over the Northeast the prior evening provided an ideal overrunning surface. Snow developed around daybreak Friday morning, moderate to heavy at times, before ending in the evening. Along the coast, the snow changed over to light rain as the precipitation tapered off. Some of the inland locations ended with a period of light freezing rain. Snowfall amounts generally ranged from 5 to 8 inches with a few higher spots. Monroe in Orange County received 10 inches.",82
+83538,SOUTHWEST SUFFOLK (ZONE), ,02/22/2008,700,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,14735,Z,80,OKX,0,0,Trained Spotter, , , , , , , , ,02/22/2008,1700, , , , ,"","Polar high pressure over the northeast and low pressure developing on a coastal front along the southeast coast provided the ideal scenario for widespread heavy snowfall. This was the biggest event for the tri-state area during the 2007-2008 winter season. The low developed along the South Carolina coast Friday morning, February 22, and then tracked northeast. The storm took a track to approximately 125 miles southeast of Montauk Point, New York, in the evening.  While the low only dropped to 1002 mb late Friday night, the 1030 mb high over the Northeast the prior evening provided an ideal overrunning surface. Snow developed around daybreak Friday morning, moderate to heavy at times, before ending in the evening. Along the coast, the snow changed over to light rain as the precipitation tapered off. Some of the inland locations ended with a period of light freezing rain. Snowfall amounts generally ranged from 5 to 8 inches with a few higher spots. Monroe in Orange County received 10 inches.",83
+162604,NORTHWEST SUFFOLK (ZONE), ,03/01/2009,2000,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,27666,Z,78,OKX,0,1,Trained Spotter, , , , , , , , ,03/02/2009,1600, , , , ,"A 57-year-old male was killed when he lost control of his vehicle on an icy road and was struck broadside by a van at approximately 2109 EST.","A coastal low pressure system along the Outer Banks of North Carolina Sunday evening, March 1, tracked northeast, to east of Long Island by Monday afternoon, March 2.  At the same time, arctic high pressure, from the upper midwest to James Bay, was gradually building east.  The two combined to produce a heavy snowfall event across the tri-state area with snowfall rates of 2 to 3 inches an hour during the pre-dawn hours of March 2. This was the biggest snowfall event of the winter season.||Snowfall amounts across southeast New York generally ranged from 7 to 12 inches, but as high as 16 inches across Suffolk county on eastern Long Island.  The following are selected snowfall amounts across the area:  11.2 inches at Tuxedo in the Lower Hudson Valley, 13.0 inches at Great Kills on Staten Island, 8.0 incheas at the Central Park Zoo in Manhattan, and 15.7 inches at Mastic on eastern Long Island.",84
+162610,SOUTHEAST SUFFOLK (ZONE), ,03/01/2009,2000,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,27666,Z,81,OKX,0,0,Public, , , , , , , , ,03/02/2009,1700, , , , ,"","A coastal low pressure system along the Outer Banks of North Carolina Sunday evening, March 1, tracked northeast, to east of Long Island by Monday afternoon, March 2.  At the same time, arctic high pressure, from the upper midwest to James Bay, was gradually building east.  The two combined to produce a heavy snowfall event across the tri-state area with snowfall rates of 2 to 3 inches an hour during the pre-dawn hours of March 2. This was the biggest snowfall event of the winter season.||Snowfall amounts across southeast New York generally ranged from 7 to 12 inches, but as high as 16 inches across Suffolk county on eastern Long Island.  The following are selected snowfall amounts across the area:  11.2 inches at Tuxedo in the Lower Hudson Valley, 13.0 inches at Great Kills on Staten Island, 8.0 incheas at the Central Park Zoo in Manhattan, and 15.7 inches at Mastic on eastern Long Island.",85
+162607,SOUTHWEST SUFFOLK (ZONE), ,03/01/2009,2000,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,27666,Z,80,OKX,0,0,Trained Spotter, , , , , , , , ,03/02/2009,1600, , , , ,"","A coastal low pressure system along the Outer Banks of North Carolina Sunday evening, March 1, tracked northeast, to east of Long Island by Monday afternoon, March 2.  At the same time, arctic high pressure, from the upper midwest to James Bay, was gradually building east.  The two combined to produce a heavy snowfall event across the tri-state area with snowfall rates of 2 to 3 inches an hour during the pre-dawn hours of March 2. This was the biggest snowfall event of the winter season.||Snowfall amounts across southeast New York generally ranged from 7 to 12 inches, but as high as 16 inches across Suffolk county on eastern Long Island.  The following are selected snowfall amounts across the area:  11.2 inches at Tuxedo in the Lower Hudson Valley, 13.0 inches at Great Kills on Staten Island, 8.0 incheas at the Central Park Zoo in Manhattan, and 15.7 inches at Mastic on eastern Long Island.",86
+162606,NORTHEAST SUFFOLK (ZONE), ,03/01/2009,2000,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,27666,Z,79,OKX,0,0,Public, , , , , , , , ,03/02/2009,1700, , , , ,"","A coastal low pressure system along the Outer Banks of North Carolina Sunday evening, March 1, tracked northeast, to east of Long Island by Monday afternoon, March 2.  At the same time, arctic high pressure, from the upper midwest to James Bay, was gradually building east.  The two combined to produce a heavy snowfall event across the tri-state area with snowfall rates of 2 to 3 inches an hour during the pre-dawn hours of March 2. This was the biggest snowfall event of the winter season.||Snowfall amounts across southeast New York generally ranged from 7 to 12 inches, but as high as 16 inches across Suffolk county on eastern Long Island.  The following are selected snowfall amounts across the area:  11.2 inches at Tuxedo in the Lower Hudson Valley, 13.0 inches at Great Kills on Staten Island, 8.0 incheas at the Central Park Zoo in Manhattan, and 15.7 inches at Mastic on eastern Long Island.",87
+208412,SOUTHWEST SUFFOLK (ZONE), ,12/19/2009,1200,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,35979,Z,80,OKX,0,0,Official NWS Observations, , , , , , , , ,12/20/2009,1100, , , , ,"","Coastal low pressure rapidly intensified Saturday night as it tracked northeast from off the Delmarva Coast...just southeast of the 40N/70W benchmark���and to southeast of Cape Cod by Sunday morning. This was in response to a powerful upper low approaching and then crossing south of the area. The track of low pressure to the southeast of the region and stubborn placement of arctic high pressure over the Northern US Plains and Southern Canadian Plains...ridging eastward...made for the ideal setup for heavy snow across most of the region. The rapid intensification of low pressure created blizzard or near blizzard conditions over Long Island for several hours with northeast winds of 15 to 25 mph and gusts 35 to 45 mph���and visibilities below �� mile. Near whiteout conds were experienced across Suffolk County during the height of the storm. Snowfall rates of 2 to 4 inches per hour occurred with an intense mesoscale band that developed S of the region���pivoted northwest into West/Central Long Island���and then slowly pulled east through the overnight. Snow totals increased rapidly from northwest to southeast across the region...with 3 to 6 inches across Orange County���around 1 ft across the NYC metro���and around 2 ft across Suffolk County.",88
+208413,NORTHWEST SUFFOLK (ZONE), ,12/19/2009,1300,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,35979,Z,78,OKX,0,0,Official NWS Observations, , , , , , , , ,12/20/2009,1100, , , , ,"","Coastal low pressure rapidly intensified Saturday night as it tracked northeast from off the Delmarva Coast...just southeast of the 40N/70W benchmark���and to southeast of Cape Cod by Sunday morning. This was in response to a powerful upper low approaching and then crossing south of the area. The track of low pressure to the southeast of the region and stubborn placement of arctic high pressure over the Northern US Plains and Southern Canadian Plains...ridging eastward...made for the ideal setup for heavy snow across most of the region. The rapid intensification of low pressure created blizzard or near blizzard conditions over Long Island for several hours with northeast winds of 15 to 25 mph and gusts 35 to 45 mph���and visibilities below �� mile. Near whiteout conds were experienced across Suffolk County during the height of the storm. Snowfall rates of 2 to 4 inches per hour occurred with an intense mesoscale band that developed S of the region���pivoted northwest into West/Central Long Island���and then slowly pulled east through the overnight. Snow totals increased rapidly from northwest to southeast across the region...with 3 to 6 inches across Orange County���around 1 ft across the NYC metro���and around 2 ft across Suffolk County.",89
+208414,NORTHEAST SUFFOLK (ZONE), ,12/19/2009,1300,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,35979,Z,79,OKX,0,0,Official NWS Observations, , , , , , , , ,12/20/2009,1200, , , , ,"","Coastal low pressure rapidly intensified Saturday night as it tracked northeast from off the Delmarva Coast...just southeast of the 40N/70W benchmark���and to southeast of Cape Cod by Sunday morning. This was in response to a powerful upper low approaching and then crossing south of the area. The track of low pressure to the southeast of the region and stubborn placement of arctic high pressure over the Northern US Plains and Southern Canadian Plains...ridging eastward...made for the ideal setup for heavy snow across most of the region. The rapid intensification of low pressure created blizzard or near blizzard conditions over Long Island for several hours with northeast winds of 15 to 25 mph and gusts 35 to 45 mph���and visibilities below �� mile. Near whiteout conds were experienced across Suffolk County during the height of the storm. Snowfall rates of 2 to 4 inches per hour occurred with an intense mesoscale band that developed S of the region���pivoted northwest into West/Central Long Island���and then slowly pulled east through the overnight. Snow totals increased rapidly from northwest to southeast across the region...with 3 to 6 inches across Orange County���around 1 ft across the NYC metro���and around 2 ft across Suffolk County.",90
+208415,SOUTHEAST SUFFOLK (ZONE), ,12/19/2009,1300,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,35979,Z,81,OKX,0,0,Official NWS Observations, , , , , , , , ,12/20/2009,1200, , , , ,"","Coastal low pressure rapidly intensified Saturday night as it tracked northeast from off the Delmarva Coast...just southeast of the 40N/70W benchmark���and to southeast of Cape Cod by Sunday morning. This was in response to a powerful upper low approaching and then crossing south of the area. The track of low pressure to the southeast of the region and stubborn placement of arctic high pressure over the Northern US Plains and Southern Canadian Plains...ridging eastward...made for the ideal setup for heavy snow across most of the region. The rapid intensification of low pressure created blizzard or near blizzard conditions over Long Island for several hours with northeast winds of 15 to 25 mph and gusts 35 to 45 mph���and visibilities below �� mile. Near whiteout conds were experienced across Suffolk County during the height of the storm. Snowfall rates of 2 to 4 inches per hour occurred with an intense mesoscale band that developed S of the region���pivoted northwest into West/Central Long Island���and then slowly pulled east through the overnight. Snow totals increased rapidly from northwest to southeast across the region...with 3 to 6 inches across Orange County���around 1 ft across the NYC metro���and around 2 ft across Suffolk County.",91
+217502,SOUTHWEST SUFFOLK (ZONE), ,02/09/2010,2200,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,37383,Z,80,OKX,0,0,Official NWS Observations, , , , , , , , ,02/11/2010,200, , , , ,"","Rapidly deepening low pressure tracked slowly northeast from the North Carolina coast during the day Wednesday to southeast of Long Island by Wednesday evening. This brought periods of heavy snow to the region late Tuesday night into Wednesday evening. In addition, strong northeasterly winds occurred across NYC and Long Island during the peak of the event Wednesday afternoon, which caused blowing and drifting of snow. Between ten to sixteen inches of snow fell across NYC and Long Island, with six to twelve inches across the Lower Hudson Valley.",92
+217505,NORTHEAST SUFFOLK (ZONE), ,02/09/2010,2200,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,37383,Z,79,OKX,0,0,Official NWS Observations, , , , , , , , ,02/11/2010,300, , , , ,"","Rapidly deepening low pressure tracked slowly northeast from the North Carolina coast during the day Wednesday to southeast of Long Island by Wednesday evening. This brought periods of heavy snow to the region late Tuesday night into Wednesday evening. In addition, strong northeasterly winds occurred across NYC and Long Island during the peak of the event Wednesday afternoon, which caused blowing and drifting of snow. Between ten to sixteen inches of snow fell across NYC and Long Island, with six to twelve inches across the Lower Hudson Valley.",93
+217503,NORTHWEST SUFFOLK (ZONE), ,02/09/2010,2200,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,37383,Z,78,OKX,0,0,Official NWS Observations, , , , , , , , ,02/11/2010,200, , , , ,"","Rapidly deepening low pressure tracked slowly northeast from the North Carolina coast during the day Wednesday to southeast of Long Island by Wednesday evening. This brought periods of heavy snow to the region late Tuesday night into Wednesday evening. In addition, strong northeasterly winds occurred across NYC and Long Island during the peak of the event Wednesday afternoon, which caused blowing and drifting of snow. Between ten to sixteen inches of snow fell across NYC and Long Island, with six to twelve inches across the Lower Hudson Valley.",94
+217504,SOUTHEAST SUFFOLK (ZONE), ,02/09/2010,2200,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,37383,Z,81,OKX,0,0,Official NWS Observations, , , , , , , , ,02/11/2010,300, , , , ,"","Rapidly deepening low pressure tracked slowly northeast from the North Carolina coast during the day Wednesday to southeast of Long Island by Wednesday evening. This brought periods of heavy snow to the region late Tuesday night into Wednesday evening. In addition, strong northeasterly winds occurred across NYC and Long Island during the peak of the event Wednesday afternoon, which caused blowing and drifting of snow. Between ten to sixteen inches of snow fell across NYC and Long Island, with six to twelve inches across the Lower Hudson Valley.",95
+217926,NORTHWEST SUFFOLK (ZONE), ,02/25/2010,2200,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,37422,Z,78,OKX,0,0,Official NWS Observations, , , , , , , , ,02/27/2010,300, , , , ,"","Low pressure rapidly deepened as it tracked north from the North Carolina coast Thursday morning the 25th of February to over the Tri-State area by Thursday evening. This was in response to a powerful upper level disturbance approaching the Eastern U.S coast. The low presure area then rotated over the region through Friday afternoon before finally lifting out on Saturday. This low brought a combination of heavy snow, heavy rain, coastal flooding and strong winds to the region Wednesday Night through Friday. Up to 3 feet of snow fell across interior portions of the Lower Hudson Valley, one to two feet across the NYC metropolitan region and six to twelve inches of snow across eastern Long Island.",96
+217925,SOUTHWEST SUFFOLK (ZONE), ,02/25/2010,2200,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,37422,Z,80,OKX,0,0,Official NWS Observations, , , , , , , , ,02/27/2010,300, , , , ,"","Low pressure rapidly deepened as it tracked north from the North Carolina coast Thursday morning the 25th of February to over the Tri-State area by Thursday evening. This was in response to a powerful upper level disturbance approaching the Eastern U.S coast. The low presure area then rotated over the region through Friday afternoon before finally lifting out on Saturday. This low brought a combination of heavy snow, heavy rain, coastal flooding and strong winds to the region Wednesday Night through Friday. Up to 3 feet of snow fell across interior portions of the Lower Hudson Valley, one to two feet across the NYC metropolitan region and six to twelve inches of snow across eastern Long Island.",97
+217928,NORTHEAST SUFFOLK (ZONE), ,02/26/2010,0,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,37422,Z,79,OKX,0,0,Official NWS Observations, , , , , , , , ,02/26/2010,2300, , , , ,"","Low pressure rapidly deepened as it tracked north from the North Carolina coast Thursday morning the 25th of February to over the Tri-State area by Thursday evening. This was in response to a powerful upper level disturbance approaching the Eastern U.S coast. The low presure area then rotated over the region through Friday afternoon before finally lifting out on Saturday. This low brought a combination of heavy snow, heavy rain, coastal flooding and strong winds to the region Wednesday Night through Friday. Up to 3 feet of snow fell across interior portions of the Lower Hudson Valley, one to two feet across the NYC metropolitan region and six to twelve inches of snow across eastern Long Island.",98
+217927,SOUTHEAST SUFFOLK (ZONE), ,02/26/2010,0,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,37422,Z,81,OKX,0,0,Official NWS Observations, , , , , , , , ,02/26/2010,2300, , , , ,"","Low pressure rapidly deepened as it tracked north from the North Carolina coast Thursday morning the 25th of February to over the Tri-State area by Thursday evening. This was in response to a powerful upper level disturbance approaching the Eastern U.S coast. The low presure area then rotated over the region through Friday afternoon before finally lifting out on Saturday. This low brought a combination of heavy snow, heavy rain, coastal flooding and strong winds to the region Wednesday Night through Friday. Up to 3 feet of snow fell across interior portions of the Lower Hudson Valley, one to two feet across the NYC metropolitan region and six to twelve inches of snow across eastern Long Island.",99
+279971,NORTHWEST SUFFOLK (ZONE), ,01/11/2011,2100,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,47978,Z,78,OKX,0,0,Official NWS Observations, , , , , , , , ,01/12/2011,1100, , , , ,"","Southeast New York recieved a heavy snowfall on the 11th and 12th of January from surface low pressure tracking up the Atlantic seaboard and then rapidly intensifying as it tracked just southeast of Long Island in response to an intense upper level disturbance. ||Light snow overspread the region Tuesday evening ahead of low pressure and then became heavy with embedded thunderstorms Tuesday night as low pressure rapidly intensified. Some sleet and rain mixed in across eastern Long Island. As the upper level disturbance worked over the region late Tuesday night a semi-stationary north to south band of very heavy snow developed just east of the Hudson River into the New York City metropolitan area, gradually pivoting east Wednesday morning through early Wednesday afternoon. This band was responsible for snowfall rates of 3 to 4 inches per hour.||In total, Eastern Long Island received 10 to 18 inches, with a few lower amounts across coastal Nassau County. New York City received 7 to 12 inches and the Lower Hudson Valley received 8 to 16 inches. ||In New York City, the snow arrived shortly before 9:00 pm Tuesday January 11, 2011, and heavy snow fell throughout the night. At Central Park, 9.1 inches of snow fell for the event, which ended early Wednesday January 12, 2010. Mayor Michael Bloomberg said that New York City's response to the latest bout of snow was very different than during the blizzard a few weeks ago. Bloomberg indicated the city's goal was the most effective snow response ever. A ���Weather Emergency��� was declared by the New York City Mayor's Office around 6:00 pm Tuesday evening. He declared the snow response a success in a news conference and credited the emergency declaration for helping to keep cars off the street. Regarding area airports, hundreds of international and domestic flights were cancelled and postponed, but delays were not as bad as during |the Holiday Blizzard.",100
+279972,SOUTHWEST SUFFOLK (ZONE), ,01/11/2011,2100,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,47978,Z,80,OKX,0,0,Official NWS Observations, , , , , , , , ,01/12/2011,1100, , , , ,"","Southeast New York recieved a heavy snowfall on the 11th and 12th of January from surface low pressure tracking up the Atlantic seaboard and then rapidly intensifying as it tracked just southeast of Long Island in response to an intense upper level disturbance. ||Light snow overspread the region Tuesday evening ahead of low pressure and then became heavy with embedded thunderstorms Tuesday night as low pressure rapidly intensified. Some sleet and rain mixed in across eastern Long Island. As the upper level disturbance worked over the region late Tuesday night a semi-stationary north to south band of very heavy snow developed just east of the Hudson River into the New York City metropolitan area, gradually pivoting east Wednesday morning through early Wednesday afternoon. This band was responsible for snowfall rates of 3 to 4 inches per hour.||In total, Eastern Long Island received 10 to 18 inches, with a few lower amounts across coastal Nassau County. New York City received 7 to 12 inches and the Lower Hudson Valley received 8 to 16 inches. ||In New York City, the snow arrived shortly before 9:00 pm Tuesday January 11, 2011, and heavy snow fell throughout the night. At Central Park, 9.1 inches of snow fell for the event, which ended early Wednesday January 12, 2010. Mayor Michael Bloomberg said that New York City's response to the latest bout of snow was very different than during the blizzard a few weeks ago. Bloomberg indicated the city's goal was the most effective snow response ever. A ���Weather Emergency��� was declared by the New York City Mayor's Office around 6:00 pm Tuesday evening. He declared the snow response a success in a news conference and credited the emergency declaration for helping to keep cars off the street. Regarding area airports, hundreds of international and domestic flights were cancelled and postponed, but delays were not as bad as during |the Holiday Blizzard.",101
+279973,NORTHEAST SUFFOLK (ZONE), ,01/11/2011,2200,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,47978,Z,79,OKX,0,0,Official NWS Observations, , , , , , , , ,01/12/2011,2100, , , , ,"","Southeast New York recieved a heavy snowfall on the 11th and 12th of January from surface low pressure tracking up the Atlantic seaboard and then rapidly intensifying as it tracked just southeast of Long Island in response to an intense upper level disturbance. ||Light snow overspread the region Tuesday evening ahead of low pressure and then became heavy with embedded thunderstorms Tuesday night as low pressure rapidly intensified. Some sleet and rain mixed in across eastern Long Island. As the upper level disturbance worked over the region late Tuesday night a semi-stationary north to south band of very heavy snow developed just east of the Hudson River into the New York City metropolitan area, gradually pivoting east Wednesday morning through early Wednesday afternoon. This band was responsible for snowfall rates of 3 to 4 inches per hour.||In total, Eastern Long Island received 10 to 18 inches, with a few lower amounts across coastal Nassau County. New York City received 7 to 12 inches and the Lower Hudson Valley received 8 to 16 inches. ||In New York City, the snow arrived shortly before 9:00 pm Tuesday January 11, 2011, and heavy snow fell throughout the night. At Central Park, 9.1 inches of snow fell for the event, which ended early Wednesday January 12, 2010. Mayor Michael Bloomberg said that New York City's response to the latest bout of snow was very different than during the blizzard a few weeks ago. Bloomberg indicated the city's goal was the most effective snow response ever. A ���Weather Emergency��� was declared by the New York City Mayor's Office around 6:00 pm Tuesday evening. He declared the snow response a success in a news conference and credited the emergency declaration for helping to keep cars off the street. Regarding area airports, hundreds of international and domestic flights were cancelled and postponed, but delays were not as bad as during |the Holiday Blizzard.",102
+279974,SOUTHEAST SUFFOLK (ZONE), ,01/11/2011,2200,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,47978,Z,81,OKX,0,0,Official NWS Observations, , , , , , , , ,01/12/2011,2100, , , , ,"","Southeast New York recieved a heavy snowfall on the 11th and 12th of January from surface low pressure tracking up the Atlantic seaboard and then rapidly intensifying as it tracked just southeast of Long Island in response to an intense upper level disturbance. ||Light snow overspread the region Tuesday evening ahead of low pressure and then became heavy with embedded thunderstorms Tuesday night as low pressure rapidly intensified. Some sleet and rain mixed in across eastern Long Island. As the upper level disturbance worked over the region late Tuesday night a semi-stationary north to south band of very heavy snow developed just east of the Hudson River into the New York City metropolitan area, gradually pivoting east Wednesday morning through early Wednesday afternoon. This band was responsible for snowfall rates of 3 to 4 inches per hour.||In total, Eastern Long Island received 10 to 18 inches, with a few lower amounts across coastal Nassau County. New York City received 7 to 12 inches and the Lower Hudson Valley received 8 to 16 inches. ||In New York City, the snow arrived shortly before 9:00 pm Tuesday January 11, 2011, and heavy snow fell throughout the night. At Central Park, 9.1 inches of snow fell for the event, which ended early Wednesday January 12, 2010. Mayor Michael Bloomberg said that New York City's response to the latest bout of snow was very different than during the blizzard a few weeks ago. Bloomberg indicated the city's goal was the most effective snow response ever. A ���Weather Emergency��� was declared by the New York City Mayor's Office around 6:00 pm Tuesday evening. He declared the snow response a success in a news conference and credited the emergency declaration for helping to keep cars off the street. Regarding area airports, hundreds of international and domestic flights were cancelled and postponed, but delays were not as bad as during |the Holiday Blizzard.",103
+281106,NORTHWEST SUFFOLK (ZONE), ,01/26/2011,800,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,48153,Z,78,OKX,0,0,Official NWS Observations, , , , , , , , ,01/27/2011,700, , , , ,"","A period of moderate to heavy snow overspread the region Wednesday morning into Wednesday afternoon on January 26th in response to a subtropical moisture feed ahead of a Mid Atlantic low pressure system. This bout of snow produced 2 to 5 inches across the region. The snow tapered to a light wintry mix late Wednesday afternoon into early evening, before a second heavier round of precipitation with convection worked into the region Wednesday evening. This was in response to a strong upper level disturbance working towards the region and rapidly intensifying coastal low pressure southeast of the region throwing moisture back over the area. A very heavy snow band developed over the NYC Metro, Southern and Eastern Portions of the Lower Hudson Valley and Northern and Western Long Island Wednesday evening, which gradually moved northeast late Wednesday night. This band was responsible for snowfall rates of 3 to 4 inches per hour over a 4 to 6 hr period,  raising snow totals to 15-20 inches across much of the region. Lower snowfall amounts of 8-12 inches were experienced over Eastern Long Island due to sleet mixing in with the snow for a time Wednesday night.||Over 19 inches of snow accumulated in Central Park. Mayor Michael Bloomberg declared a weather emergency for New York City. Bloomberg announced the closure of all non-emergency city government offices and New York City Schools were closed. The storm broke New York���s record for January snowfall. A total of 36 inches had fallen in Central Park this month compared with 27.4 inches in 1925.||Snow accumulations caused massive transportation delays including over a thousand airline cancellations at all of the major New York airports. John F. Kennedy International airport was closed until 10:30 a.m., according to the Federal Aviation Administration. Amtrak suspended its passenger rail service from New York to Boston and cut service between New York and Albany.",104
+281107,SOUTHWEST SUFFOLK (ZONE), ,01/26/2011,800,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,48153,Z,80,OKX,0,0,Official NWS Observations, , , , , , , , ,01/27/2011,700, , , , ,"","A period of moderate to heavy snow overspread the region Wednesday morning into Wednesday afternoon on January 26th in response to a subtropical moisture feed ahead of a Mid Atlantic low pressure system. This bout of snow produced 2 to 5 inches across the region. The snow tapered to a light wintry mix late Wednesday afternoon into early evening, before a second heavier round of precipitation with convection worked into the region Wednesday evening. This was in response to a strong upper level disturbance working towards the region and rapidly intensifying coastal low pressure southeast of the region throwing moisture back over the area. A very heavy snow band developed over the NYC Metro, Southern and Eastern Portions of the Lower Hudson Valley and Northern and Western Long Island Wednesday evening, which gradually moved northeast late Wednesday night. This band was responsible for snowfall rates of 3 to 4 inches per hour over a 4 to 6 hr period,  raising snow totals to 15-20 inches across much of the region. Lower snowfall amounts of 8-12 inches were experienced over Eastern Long Island due to sleet mixing in with the snow for a time Wednesday night.||Over 19 inches of snow accumulated in Central Park. Mayor Michael Bloomberg declared a weather emergency for New York City. Bloomberg announced the closure of all non-emergency city government offices and New York City Schools were closed. The storm broke New York���s record for January snowfall. A total of 36 inches had fallen in Central Park this month compared with 27.4 inches in 1925.||Snow accumulations caused massive transportation delays including over a thousand airline cancellations at all of the major New York airports. John F. Kennedy International airport was closed until 10:30 a.m., according to the Federal Aviation Administration. Amtrak suspended its passenger rail service from New York to Boston and cut service between New York and Albany.",105
+281109,SOUTHEAST SUFFOLK (ZONE), ,01/26/2011,830,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,48153,Z,81,OKX,0,1,Official NWS Observations, , , , , , , , ,01/27/2011,800, , , , ,"A Mastic Beach woman was struck and killed on Wednesday 1/26 by a pickup truck plowing a Center Moriches bus company parking lot.","A period of moderate to heavy snow overspread the region Wednesday morning into Wednesday afternoon on January 26th in response to a subtropical moisture feed ahead of a Mid Atlantic low pressure system. This bout of snow produced 2 to 5 inches across the region. The snow tapered to a light wintry mix late Wednesday afternoon into early evening, before a second heavier round of precipitation with convection worked into the region Wednesday evening. This was in response to a strong upper level disturbance working towards the region and rapidly intensifying coastal low pressure southeast of the region throwing moisture back over the area. A very heavy snow band developed over the NYC Metro, Southern and Eastern Portions of the Lower Hudson Valley and Northern and Western Long Island Wednesday evening, which gradually moved northeast late Wednesday night. This band was responsible for snowfall rates of 3 to 4 inches per hour over a 4 to 6 hr period,  raising snow totals to 15-20 inches across much of the region. Lower snowfall amounts of 8-12 inches were experienced over Eastern Long Island due to sleet mixing in with the snow for a time Wednesday night.||Over 19 inches of snow accumulated in Central Park. Mayor Michael Bloomberg declared a weather emergency for New York City. Bloomberg announced the closure of all non-emergency city government offices and New York City Schools were closed. The storm broke New York���s record for January snowfall. A total of 36 inches had fallen in Central Park this month compared with 27.4 inches in 1925.||Snow accumulations caused massive transportation delays including over a thousand airline cancellations at all of the major New York airports. John F. Kennedy International airport was closed until 10:30 a.m., according to the Federal Aviation Administration. Amtrak suspended its passenger rail service from New York to Boston and cut service between New York and Albany.",106
+281108,NORTHEAST SUFFOLK (ZONE), ,01/26/2011,830,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,48153,Z,79,OKX,0,0,Official NWS Observations, , , , , , , , ,01/27/2011,800, , , , ,"","A period of moderate to heavy snow overspread the region Wednesday morning into Wednesday afternoon on January 26th in response to a subtropical moisture feed ahead of a Mid Atlantic low pressure system. This bout of snow produced 2 to 5 inches across the region. The snow tapered to a light wintry mix late Wednesday afternoon into early evening, before a second heavier round of precipitation with convection worked into the region Wednesday evening. This was in response to a strong upper level disturbance working towards the region and rapidly intensifying coastal low pressure southeast of the region throwing moisture back over the area. A very heavy snow band developed over the NYC Metro, Southern and Eastern Portions of the Lower Hudson Valley and Northern and Western Long Island Wednesday evening, which gradually moved northeast late Wednesday night. This band was responsible for snowfall rates of 3 to 4 inches per hour over a 4 to 6 hr period,  raising snow totals to 15-20 inches across much of the region. Lower snowfall amounts of 8-12 inches were experienced over Eastern Long Island due to sleet mixing in with the snow for a time Wednesday night.||Over 19 inches of snow accumulated in Central Park. Mayor Michael Bloomberg declared a weather emergency for New York City. Bloomberg announced the closure of all non-emergency city government offices and New York City Schools were closed. The storm broke New York���s record for January snowfall. A total of 36 inches had fallen in Central Park this month compared with 27.4 inches in 1925.||Snow accumulations caused massive transportation delays including over a thousand airline cancellations at all of the major New York airports. John F. Kennedy International airport was closed until 10:30 a.m., according to the Federal Aviation Administration. Amtrak suspended its passenger rail service from New York to Boston and cut service between New York and Albany.",107
+361731,NORTHEAST SUFFOLK (ZONE), ,01/21/2012,430,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,60596,Z,79,OKX,0,0,Official NWS Observations, , , , , , , , ,01/21/2012,1500, , , , ,"Between 5 to 7 inches of snow fell across Northeast Suffolk County by Saturday afternoon, with Orient reporting 7.2 inches.","Low pressure tracked from the Tennesse Valley to Mid-Altantic coast Friday night into early Saturday morning, and then just south of Long Island on Saturday.  A band of moderate to heavy snow to the north of the low brought 5 to 7 inches of snow across the Lower Hudson Valley and northeast Suffolk County.",108
+497173,NORTHWEST SUFFOLK (ZONE), ,01/02/2014,1900,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,82565,Z,78,OKX,0,0,Trained Spotter, , , , , , , , ,01/03/2014,1130, , , , ,"Trained spotters, the public, NWS employees and CoCoRaHS observers reported snowfall of 7 to 12 inches.","A low pressure system moving into the Ohio Valley on January 2 redeveloped and intensified along the Mid Atlantic coast, bringing heavy snow to southeast New York before moving out to sea on the third of January.",109
+497176,SOUTHEAST SUFFOLK (ZONE), ,01/02/2014,1900,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,82565,Z,81,OKX,0,0,Public, , , , , , , , ,01/03/2014,1200, , , , ,"The public, cooperative observers and CoCoRAHS observers reported snowfall of 8 to 14 inches.","A low pressure system moving into the Ohio Valley on January 2 redeveloped and intensified along the Mid Atlantic coast, bringing heavy snow to southeast New York before moving out to sea on the third of January.",110
+497175,NORTHEAST SUFFOLK (ZONE), ,01/02/2014,1900,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,82565,Z,79,OKX,0,0,Official NWS Observations, , , , , , , , ,01/03/2014,1200, , , , ,"NWS observers, trained spotters, and cooperative observers reported snowfall of 8 to 11.4 inches. The NWS office at Upton NY measured 11.4 inches.","A low pressure system moving into the Ohio Valley on January 2 redeveloped and intensified along the Mid Atlantic coast, bringing heavy snow to southeast New York before moving out to sea on the third of January.",111
+497174,SOUTHWEST SUFFOLK (ZONE), ,01/02/2014,1900,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,82565,Z,80,OKX,0,0,Trained Spotter, , , , , , , , ,01/03/2014,1130, , , , ,"The public, trained spotters, FAA contract observers, NWS employees and CoCoRaHS observers reported snowfall of 8 to 13 inches.","A low pressure system moving into the Ohio Valley on January 2 redeveloped and intensified along the Mid Atlantic coast, bringing heavy snow to southeast New York before moving out to sea on the third of January.",112
+505370,SOUTHWEST SUFFOLK (ZONE), ,01/21/2014,845,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,83716,Z,80,OKX,0,0,NWS Employee, , , , , , , , ,01/22/2014,600, , , , ,"NWS employees in Patchogue and Sayville reported snowfall totals of 11.8 and 10.2 inches, respectively. Elsewhere, the public and trained spotters reported widespread snowfall totals of 11 to 15 inches.","Low pressure moving from the central Appalachians the morning of the 21st intensified off the Mid Atlantic coast and brought heavy snow to most of southeast New York on the 21st and 22nd.",113
+505364,NORTHWEST SUFFOLK (ZONE), ,01/21/2014,1100,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,83716,Z,78,OKX,0,0,Public, , , , , , , , ,01/22/2014,530, , , , ,"The public and trained spotters reported widespread snowfall totals of 10 to 15 inches.","Low pressure moving from the central Appalachians the morning of the 21st intensified off the Mid Atlantic coast and brought heavy snow to most of southeast New York on the 21st and 22nd.",114
+505371,NORTHEAST SUFFOLK (ZONE), ,01/21/2014,1130,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,83716,Z,79,OKX,0,0,Official NWS Observations, , , , , , , , ,01/22/2014,745, , , , ,"The NWS office in Upton reported snowfall of 10 inches. Elsewhere, the public and trained spotters reported widespread snowfall totals of 10 to 13 inches.","Low pressure moving from the central Appalachians the morning of the 21st intensified off the Mid Atlantic coast and brought heavy snow to most of southeast New York on the 21st and 22nd.",115
+505361,SOUTHEAST SUFFOLK (ZONE), ,01/21/2014,1130,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,83716,Z,81,OKX,0,0,NWS Employee, , , , , , , , ,01/22/2014,800, , , , ,"An NWS employee and the public reported snowfall totals of 10 inches in Eastport, Flanders, and Hampton Bays.","Low pressure moving from the central Appalachians the morning of the 21st intensified off the Mid Atlantic coast and brought heavy snow to most of southeast New York on the 21st and 22nd.",116
+509151,SOUTHWEST SUFFOLK (ZONE), ,02/03/2014,530,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,84333,Z,80,OKX,0,0,Official NWS Observations, , , , , , , , ,02/03/2014,1815, , , , ,"MacArthur Airport reported 7 inches snowfall. The public, a trained spotter, and an NWS employee also reported widespread 5 to 8 inch snowfall.","Weak low pressure passing to the south brought a swath of heavy snow to much of Southeast New York on the third.",117
+509150,NORTHWEST SUFFOLK (ZONE), ,02/03/2014,600,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,84333,Z,78,OKX,0,0,NWS Employee, , , , , , , , ,02/03/2014,1900, , , , ,"The public, trained spotters, and an NWS employee reported widespread 6 to 10 inch snowfall.","Weak low pressure passing to the south brought a swath of heavy snow to much of Southeast New York on the third.",118
+509153,SOUTHEAST SUFFOLK (ZONE), ,02/03/2014,600,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,84333,Z,81,OKX,0,0,NWS Employee, , , , , , , , ,02/03/2014,1830, , , , ,"The public, an NWS employee, and a trained spotter reported widespread 5.5 to 6.5 inches snowfall.","Weak low pressure passing to the south brought a swath of heavy snow to much of Southeast New York on the third.",119
+509152,NORTHEAST SUFFOLK (ZONE), ,02/03/2014,600,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,84333,Z,79,OKX,0,0,Official NWS Observations, , , , , , , , ,02/03/2014,1800, , , , ,"The NWS weather forecast office in Upton reported 7.2 inches snowfall. Trained spotters and the public also reported widespread 6 to 9 inch snowfall.","Weak low pressure passing to the south brought a swath of heavy snow to much of Southeast New York on the third.",120
+514368,NORTHEAST SUFFOLK (ZONE), ,02/13/2014,115,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,85166,Z,79,OKX,0,0,Official NWS Observations, , , , , , , , ,02/14/2014,600, , , , ,"The NWS office in Upton reported snowfall of 8.1 inches.","A low pressure system developed along the northern Gulf Coast on February 12th, and moved to near Cape Hatteras and the Virginia capes by the morning of the 13th. The intensifying low then headed northeast, passing east of Long Island and into the Gulf of Maine early the morning of the 14th, bringing heavy snow and ice to Southeast New York.",121
+514369,SOUTHEAST SUFFOLK (ZONE), ,02/13/2014,115,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,85166,Z,81,OKX,0,0,COOP Observer, , , , , , , , ,02/14/2014,600, , , , ,"An NWS cooperative observer in Bridgehampton reported snowfall of 5.5 inches.","A low pressure system developed along the northern Gulf Coast on February 12th, and moved to near Cape Hatteras and the Virginia capes by the morning of the 13th. The intensifying low then headed northeast, passing east of Long Island and into the Gulf of Maine early the morning of the 14th, bringing heavy snow and ice to Southeast New York.",122
+502967,SOUTHEAST SUFFOLK (ZONE), ,02/15/2014,1300,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,83343,Z,81,OKX,0,0,Trained Spotter, , , , , , , , ,02/15/2014,2130, , , , ,"The public reported 7.5 inches of snow in East Hampton. Trained spotters reported 6.5 inches of snow in Southampton, and 5.5 inches in Montauk.","Rapidly intensifying low pressure moved northeast from the southern mid Atlantic coast on the morning of the 15th, to near Nova Scotia the morning of the 16th. This storm brought heavy snow to parts of eastern Long Island during the afternoon and evening of the 15th.",123
+564095,NORTHWEST SUFFOLK (ZONE), ,02/01/2015,2230,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,93840,Z,78,OKX,0,0,Public, , , , , , , , ,02/02/2015,1830, , , , ,"Snowfall ranged from 5 to 10 inches across the county, along with one to two tenths of an inch of ice. The highest amount of 10 inches was reported in East Northport, NY.","An area of low pressure tracked east from the Ohio Valley the night of February 1 to just south of Long Island the afternoon of February 2.  The close proximity of the low with arctic air to the north resulted in snow at the onset, which transitioned to a wintry mix during the morning hours before going back to snow by early afternoon.  Some interior locations remained all snow.  Much of southeast New York received 5 to 10 inches of snowfall along with up to a quarter inch of ice near the coast.",124
+568255,NORTHWEST SUFFOLK (ZONE), ,03/01/2015,1230,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,94513,Z,78,OKX,0,0,NWS Employee, , , , , , , , ,03/01/2015,2200, , , , ,"NWS employees, the public and trained spotters reported snowfall of 5 to 8 inches.","Weak low pressure approaching from the Ohio Valley brought heavy snow to parts of Southeast New York.",125
+568257,SOUTHWEST SUFFOLK (ZONE), ,03/01/2015,1230,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,94513,Z,80,OKX,0,0,Official NWS Observations, , , , , , , , ,03/01/2015,2200, , , , ,"NWS employees, the public and trained spotters reported snowfall of 5 to 6 inches. Islip MacArthur Airport reported 5.6 inches of snow.","Weak low pressure approaching from the Ohio Valley brought heavy snow to parts of Southeast New York.",126
+568258,NORTHEAST SUFFOLK (ZONE), ,03/01/2015,1400,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,94513,Z,79,OKX,0,0,Official NWS Observations, , , , , , , , ,03/01/2015,2200, , , , ,"The NWS forecast office in Upton reported 5.9 inches of snow. The public and trained spotters reported 5 to 7 inches of snow elsewhere.","Weak low pressure approaching from the Ohio Valley brought heavy snow to parts of Southeast New York.",127
+573361,NORTHWEST SUFFOLK (ZONE), ,03/05/2015,430,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,95430,Z,78,OKX,0,0,NWS Employee, , , , , , , , ,03/05/2015,1830, , , , ,"NWS employees, trained spotters, and the public measured snowfall of 6 to 9 inches.","Rain associated with a wave of low pressure moving along a cold front to the south changed to snow before sunrise on March 5, and became heavy across Southeast New York.",128
+573363,NORTHEAST SUFFOLK (ZONE), ,03/05/2015,430,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,95430,Z,79,OKX,0,0,Official NWS Observations, , , , , , , , ,03/05/2015,1930, , , , ,"NWS Upton NY measured 7.3 inches of snow. NWS employees, trained spotters, and the public also measured snowfall of 7 to 9 inches.","Rain associated with a wave of low pressure moving along a cold front to the south changed to snow before sunrise on March 5, and became heavy across Southeast New York.",129
+573362,SOUTHWEST SUFFOLK (ZONE), ,03/05/2015,500,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,95430,Z,80,OKX,0,0,Official NWS Observations, , , , , , , , ,03/05/2015,1830, , , , ,"Islip MacArthur Airport reported 6.2 inches of snow. NWS employees, trained spotters, and the public also measured snowfall of 6 to 9 inches.","Rain associated with a wave of low pressure moving along a cold front to the south changed to snow before sunrise on March 5, and became heavy across Southeast New York.",130
+573364,SOUTHEAST SUFFOLK (ZONE), ,03/05/2015,530,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,95430,Z,81,OKX,0,0,Trained Spotter, , , , , , , , ,03/05/2015,1930, , , , ,"A trained spotter in Southampton measured 7.3 inches of snow.","Rain associated with a wave of low pressure moving along a cold front to the south changed to snow before sunrise on March 5, and became heavy across Southeast New York.",131
+629753,SOUTHWEST SUFFOLK (ZONE), ,02/05/2016,500,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,105073,Z,80,OKX,0,0,Trained Spotter, , , , , , , , ,02/05/2016,1400, , , , ,"Trained spotters, NWS employees, and official NWS observations indicated a 7 to 11 inch snowfall. MacArthur Airport in Islip reported 9.8 inches of snow.","Low pressure developing along a cold front moving through the region on Thursday February 4th moved off the southern Mid Atlantic coast on Friday February 5th, bringing heavy snow to Long Island on the fifth.",132
+629750,NORTHWEST SUFFOLK (ZONE), ,02/05/2016,600,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,105073,Z,78,OKX,0,0,Trained Spotter, , , , , , , , ,02/05/2016,1400, , , , ,"Trained spotter, NWS employee, and public reports indicated an 8 to 12 inch snowfall.","Low pressure developing along a cold front moving through the region on Thursday February 4th moved off the southern Mid Atlantic coast on Friday February 5th, bringing heavy snow to Long Island on the fifth.",133
+629748,NORTHEAST SUFFOLK (ZONE), ,02/05/2016,730,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,105073,Z,79,OKX,0,0,Official NWS Observations, , , , , , , , ,02/05/2016,1500, , , , ,"The NWS forecast office in Upton reported 7.7 inches of snowfall. Elsewhere, public reports indicated a 5 to 7 inch snowfall.","Low pressure developing along a cold front moving through the region on Thursday February 4th moved off the southern Mid Atlantic coast on Friday February 5th, bringing heavy snow to Long Island on the fifth.",134
+629751,SOUTHEAST SUFFOLK (ZONE), ,02/05/2016,730,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,105073,Z,81,OKX,0,0,Public, , , , , , , , ,02/05/2016,1500, , , , ,"Public and NWS employee reports indicated a 5 to 8 inch snowfall.","Low pressure developing along a cold front moving through the region on Thursday February 4th moved off the southern Mid Atlantic coast on Friday February 5th, bringing heavy snow to Long Island on the fifth.",135
+629757,NORTHEAST SUFFOLK (ZONE), ,02/08/2016,600,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,105075,Z,79,OKX,0,0,Trained Spotter, , , , , , , , ,02/08/2016,1800, , , , ,"Trained spotters and the public reported 5 to 6 inches of snow. The NWS forecast office in Upton measured 5.4 inches of snow.","An intensifying offshore storm passed close enough on Monday February 8th to bring heavy snow to parts of central and much of eastern Long Island, NY.",136
+629758,SOUTHEAST SUFFOLK (ZONE), ,02/08/2016,600,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,105075,Z,81,OKX,0,0,Trained Spotter, , , , , , , , ,02/08/2016,1800, , , , ,"Trained spotters and the public reported 5 to 6 inches of snow.","An intensifying offshore storm passed close enough on Monday February 8th to bring heavy snow to parts of central and much of eastern Long Island, NY.",137
+672870,SOUTHWEST SUFFOLK (ZONE), ,01/07/2017,900,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,112695,Z,80,OKX,0,0,Official NWS Observations, , , , , , , , ,01/07/2017,2300, , , , ,"Islip Airport contract observer, NWS Employees, and trained spotters reported snowfall ranging from 7 to 10 inches.","Low pressure developed across the southeast coast early on January 7, 2017 and deepened as it tracked off the coast. The low tracked south and east of the 40��N/70��W benchmark. Despite the low tracking this far east, the Tri-State area was located in the right entrance region of a strong upper level jet streak. This allowed for snow to expand well to the northwest of the low bringing heavy snow to Long Island and New York City and portions of the Lower Hudson Valley.",138
+672869,NORTHWEST SUFFOLK (ZONE), ,01/07/2017,900,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,112695,Z,78,OKX,0,0,Trained Spotter, , , , , , , , ,01/07/2017,2300, , , , ,"Trained spotters, NWS Employees and the public reported snowfall ranging from 7 to 10 inches.","Low pressure developed across the southeast coast early on January 7, 2017 and deepened as it tracked off the coast. The low tracked south and east of the 40��N/70��W benchmark. Despite the low tracking this far east, the Tri-State area was located in the right entrance region of a strong upper level jet streak. This allowed for snow to expand well to the northwest of the low bringing heavy snow to Long Island and New York City and portions of the Lower Hudson Valley.",139
+672871,NORTHEAST SUFFOLK (ZONE), ,01/07/2017,1000,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,112695,Z,79,OKX,0,0,Trained Spotter, , , , , , , , ,01/08/2017,0, , , , ,"Trained spotters, a COOP observer, and the public reported snowfall ranging from 8 to 12 inches.","Low pressure developed across the southeast coast early on January 7, 2017 and deepened as it tracked off the coast. The low tracked south and east of the 40��N/70��W benchmark. Despite the low tracking this far east, the Tri-State area was located in the right entrance region of a strong upper level jet streak. This allowed for snow to expand well to the northwest of the low bringing heavy snow to Long Island and New York City and portions of the Lower Hudson Valley.",140
+672872,SOUTHEAST SUFFOLK (ZONE), ,01/07/2017,1000,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,112695,Z,81,OKX,0,0,NWS Employee, , , , , , , , ,01/08/2017,0, , , , ,"An NWS Employee, trained spotters, and the public reported snowfall ranging from 8 to  12 inches.","Low pressure developed across the southeast coast early on January 7, 2017 and deepened as it tracked off the coast. The low tracked south and east of the 40��N/70��W benchmark. Despite the low tracking this far east, the Tri-State area was located in the right entrance region of a strong upper level jet streak. This allowed for snow to expand well to the northwest of the low bringing heavy snow to Long Island and New York City and portions of the Lower Hudson Valley.",141
+735915,NORTHEAST SUFFOLK (ZONE), ,01/29/2018,2300,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,122836,Z,79,OKX,0,0,Trained Spotter, , , , , , , , ,01/30/2018,1300, , , , ,"Trained spotters and the public reported 6 to 9 inches of snowfall.","Low pressure developed along the North Carolina coast during the afternoon of January 29, 2018. The low moved off the coast to a location east of the 40��N/70��W benchmark during the morning of January 30, 2018. Heavy snow bands were able to develop well north and west of the low pressure system across Eastern Long Island due to a strong upper level jet.",142
+735921,SOUTHEAST SUFFOLK (ZONE), ,01/29/2018,2300,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,122836,Z,81,OKX,0,0,Trained Spotter, , , , , , , , ,01/30/2018,1300, , , , ,"Trained spotters, social media, and the public reported 6 to 8 inches of snowfall.","Low pressure developed along the North Carolina coast during the afternoon of January 29, 2018. The low moved off the coast to a location east of the 40��N/70��W benchmark during the morning of January 30, 2018. Heavy snow bands were able to develop well north and west of the low pressure system across Eastern Long Island due to a strong upper level jet.",143
+746321,NORTHWEST SUFFOLK (ZONE), ,03/07/2018,1200,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,124011,Z,78,OKX,0,0,NWS Employee, , , , , , , , ,03/08/2018,300, , , , ,"An NWS Employee, FAA contract Observer, trained spotters, CoCoRaHS observers and the public reported 6 to 9 inches of snowfall.","A strong low pressure system developed along the Middle Atlantic coast during the morning of Wednesday, March 7, 2018. The low tracked along the coast through the early morning hours on Thursday, March 8, 2018. The storm brought heavy wet snow, strong gusty winds, and even some thundersnow to southeast New York. Snowfall rates ranged from 1 to 3 inches per hour at times in the heaviest snow bands.",144
+745246,NORTHEAST SUFFOLK (ZONE), ,03/12/2018,2300,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,124182,Z,79,OKX,0,0,Trained Spotter, , , , , , , , ,03/13/2018,1400, , , , ,"Trained spotters, COOP observers, CoCoRaHS observers, and the public reported 6 to 12.5 inches of snow.  The highest amount was reported by a trained spotter in Orient with 12.5 inches of snow.","A strong area of low pressure tracked well offshore of the eastern seaboard, but tracked   close enough to eastern Long Island to bring heavy snow bands during the morning and early afternoon on Tuesday, March 13, 2018.  Snowfall rates were 1 to 2 inches per hour at times in the morning across eastern Long Island. A deep upper level trough over the northeast also aided in bringing lighter snow over the Lower Hudson Valley and portions of New York City, despite the low pressure tracking several hundred miles off the coast.",145
+745247,SOUTHWEST SUFFOLK (ZONE), ,03/12/2018,2300,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,124182,Z,80,OKX,0,0,Official NWS Observations, , , , , , , , ,03/13/2018,1100, , , , ,"The FAA Contract Observer at the Islip Airport reported 6.4 inches of snow. Trained spotters and the public reported 5 to 8 inches of snow.","A strong area of low pressure tracked well offshore of the eastern seaboard, but tracked   close enough to eastern Long Island to bring heavy snow bands during the morning and early afternoon on Tuesday, March 13, 2018.  Snowfall rates were 1 to 2 inches per hour at times in the morning across eastern Long Island. A deep upper level trough over the northeast also aided in bringing lighter snow over the Lower Hudson Valley and portions of New York City, despite the low pressure tracking several hundred miles off the coast.",146
+745248,SOUTHEAST SUFFOLK (ZONE), ,03/12/2018,2300,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,124182,Z,81,OKX,0,0,Trained Spotter, , , , , , , , ,03/13/2018,1400, , , , ,"A trained spotter reported 18.3 inches of snow in Southampton. The public reported 10.3 inches of snow in East Hampton.","A strong area of low pressure tracked well offshore of the eastern seaboard, but tracked   close enough to eastern Long Island to bring heavy snow bands during the morning and early afternoon on Tuesday, March 13, 2018.  Snowfall rates were 1 to 2 inches per hour at times in the morning across eastern Long Island. A deep upper level trough over the northeast also aided in bringing lighter snow over the Lower Hudson Valley and portions of New York City, despite the low pressure tracking several hundred miles off the coast.",147
+745245,NORTHWEST SUFFOLK (ZONE), ,03/12/2018,2300,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,124182,Z,78,OKX,0,0,NWS Employee, , , , , , , , ,03/13/2018,1200, , , , ,"An NWS Employee in Stony Brook reported 8.3 inches of snow. Trained spotters,  CoCoRaHS observers, and the public reported 6 to 11 inches of snow.","A strong area of low pressure tracked well offshore of the eastern seaboard, but tracked   close enough to eastern Long Island to bring heavy snow bands during the morning and early afternoon on Tuesday, March 13, 2018.  Snowfall rates were 1 to 2 inches per hour at times in the morning across eastern Long Island. A deep upper level trough over the northeast also aided in bringing lighter snow over the Lower Hudson Valley and portions of New York City, despite the low pressure tracking several hundred miles off the coast.",148
+941312,NORTHWEST SUFFOLK (ZONE), ,02/07/2021,900,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,155989,Z,78,OKX,0,0,NWS Employee, , , , , , , , ,02/07/2021,1800, , , , ,"NWS Employees 1 mile south-southeast of Stony Brook, Centereach, 1 mile southwest of Sound Beach, and 1 mile east-southeast of Lake Grove reported 8.0, 7.4, 6.8, and 6.5 inches of snow respectively.  A COOP observer 1 mile south of Centerport reported 6.6 inches of snow. Trained spotters and the public reported 5 to 8 inches of snow.","Low pressure developed off the NC/VA coast during the morning on Sunday, February 7, 2021. The low then tracked northeast away from the Middle Atlantic through the afternoon as it intensified, then well south and east of Long Island in the late afternoon and evening. A band of moderate to heavy snow developed across southern portions of the Lower Hudson Valley during the late morning hours. and the continued moving east across portions of the New York City metro and Long Island through the rest of afternoon. The initial moderate to heavy snow band merged with a second band developing across eastern Long Island in the afternoon. Snowfall rates within the bands were around one to as high as two inches per hour at times. Surrounding this moderate to heavy band was a steady snowfall through much of the day. Snowfall accumulation across much of Southern Connecticut ranged from 3 to as high as 9 inches.",149
+941313,SOUTHWEST SUFFOLK (ZONE), ,02/07/2021,900,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,155989,Z,80,OKX,0,0,Official NWS Observations, , , , , , , , ,02/07/2021,1800, , , , ,"The Official NWS Observation at the Islip Airport was 6.4 inches of snow. Broadcast media reported 6.1 inches of snow. Trained spotters and the public reported 5 to 7 inches of snow.","Low pressure developed off the NC/VA coast during the morning on Sunday, February 7, 2021. The low then tracked northeast away from the Middle Atlantic through the afternoon as it intensified, then well south and east of Long Island in the late afternoon and evening. A band of moderate to heavy snow developed across southern portions of the Lower Hudson Valley during the late morning hours. and the continued moving east across portions of the New York City metro and Long Island through the rest of afternoon. The initial moderate to heavy snow band merged with a second band developing across eastern Long Island in the afternoon. Snowfall rates within the bands were around one to as high as two inches per hour at times. Surrounding this moderate to heavy band was a steady snowfall through much of the day. Snowfall accumulation across much of Southern Connecticut ranged from 3 to as high as 9 inches.",150
+994062,NORTHWEST SUFFOLK (ZONE), ,01/07/2022,100,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,164617,Z,78,OKX,0,0,Trained Spotter, , , , , , , , ,01/07/2022,1000, , , , ,"Snowfall amounts closer to the north shore from Dix Hills to Setauket of 7.8 to 8.9 inches was reported from sources ranging from trained spotters, NWS employees, broadcast media, and the public. Most other reports range from 6.8 to 8.0 inches of snow across NW Suffolk.","Coastal low pressure along the polar front developed in response to an upper level disturbance. This result in an moderate snowfall across the interior sections of the Lower Hudson Valley, with heavier snow across more southern and southeastern locations.",151
+994064,SOUTHWEST SUFFOLK (ZONE), ,01/07/2022,100,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,164617,Z,80,OKX,0,0,Official NWS Observations, , , , , , , , ,01/07/2022,1000, , , , ,"Snowfall totals of 5 to 7.3 inches of snow was reported, with the lower totals reported late which likely were slightly lower due to compaction.  7.3 inches was reported by an NWS Employee in Sayville, and 6.8 inches was reported by an NWS Employee in Bay Shore. The Islip Airport Official NWS Observation also measured 6.6 inches of snow.","Coastal low pressure along the polar front developed in response to an upper level disturbance. This result in an moderate snowfall across the interior sections of the Lower Hudson Valley, with heavier snow across more southern and southeastern locations.",152
+994066,NORTHEAST SUFFOLK (ZONE), ,01/07/2022,100,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,164617,Z,79,OKX,0,0,Trained Spotter, , , , , , , , ,01/07/2022,1100, , , , ,"Snowfall amounts were fairly uniform and generally ranged from 6 to 7 inches across Southeastern Suffolk. A trained spotter in Calverton measured 6.6 inches, with other trained spotter reports of 6.0 inches in Mattituck and Orient, and 6.4 inches measured at the NWS Office in Upton.","Coastal low pressure along the polar front developed in response to an upper level disturbance. This result in an moderate snowfall across the interior sections of the Lower Hudson Valley, with heavier snow across more southern and southeastern locations.",153
+994067,SOUTHEAST SUFFOLK (ZONE), ,01/07/2022,100,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,164617,Z,81,OKX,0,0,Public, , , , , , , , ,01/07/2022,1100, , , , ,"Public snowfall reports of 6.2 inches in Manorville, and 6.1 inches in East Hampton were reported.","Coastal low pressure along the polar front developed in response to an upper level disturbance. This result in an moderate snowfall across the interior sections of the Lower Hudson Valley, with heavier snow across more southern and southeastern locations.",154
+1152250,NORTHWEST SUFFOLK (ZONE), ,02/13/2024,400,Heavy Snow, , ,0,0,0,0,NY,EST-5, ,187612,Z,78,OKX,0,0,NWS Employee, , , , , , , , ,02/13/2024,1400, , , , ,"A heavy wet snow, which initially began as a wintry mix fell across Northwestern Suffolk County. Snowfall totals included; 7.0 inches at 1 E Commack via broadcast media, 7.0 inches at 1 WSW Smithtown via the public, 7.0 inches in Stony Brook via an NWS employee, and 6.6 inches in Huntington via the public.","Low pressure across the Tennessee Valley and the Gulf states tracked tracked north, and redeveloped and intensified rapidly off the Mid Atlantic coast. A heavy wet snowfall occurred across much of Southeastern New York, with lesser amounts across portions of the coast, especially along and closer to the south shore and eastern third of Long Island. Marginal surface temperatures precluded higher snow amounts in urban locations and further south and east.  A combination of over 250 crashes and accidents were reported across Long Island during the storm from state and county law enforcement officials.",155
