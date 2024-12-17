@@ -3,6 +3,7 @@ Albany_County <- read.csv("/cloud/project/Albany-County-Heavy-Snow-Data.csv")
 Oneida_County <- read.csv("/cloud/project/Oneida-County-Heavy-Snow-Data.csv")
 Suffolk_County <- read.csv("/cloud/project/Suffolk-County-Heavy-Snow-Data.csv")
 
+Albany_County.Temp <- read.csv("/cloud/project/Albany_County.Temp.csv")
 Oneida_County.Temp <- read.csv("/cloud/project/Oneida_County.Temp.csv")
 
 # install packages
@@ -14,12 +15,8 @@ library(lubridate)
 library(forecast)
 library(tidyverse)
 
-# parse date
-exampleDate <- c("01/02/1996")
-mdy(exampleDate)
-
-# plot heavy snowfall occurence trends over time by county
-# plot heavy snowfall occurence trends over time in Albany County
+# plot heavy snowfall occurrence trends over time by county
+# plot heavy snowfall occurrence trends over time in Albany County
 # convert date column to date type
 Albany_County$BEGIN_DATE <- mdy(Albany_County$BEGIN_DATE)
 
@@ -44,13 +41,13 @@ ggplot(data = ALByearly_snowfall, aes(x = Year, y = Occurrences)) +
 
 # plot heavy snowfall occurence trends over time in Oneida County
 # convert date column to date type
-Oneida_County$BEGIN_DATE <- mdy(Oneida_County$BEGIN_DATE)
+Oneida_County$BEGIN_DATE <- ymd(Oneida_County$BEGIN_DATE)
 
 # extract year from date column
 Oneida_County$Year <- year(Oneida_County$BEGIN_DATE)
 
 # group by year and count occurrences
-ONyearly_snowfall <- Oneida_County %>%
+ON_yearly_snowfall <- Oneida_County %>%
   group_by(Year) %>%
   summarize(Occurrences = n())
 
@@ -87,6 +84,54 @@ ggplot(data = SUyearly_snowfall, aes(x = Year, y = Occurrences)) +
     y = "Occurrences"
   ) +
   theme_minimal()
+###################
+# Albany County winter average temperature time series
+# filter for winter months (Dec to Feb)
+ALB_winter_months <- Albany_County.Temp %>%
+  filter(substr(X...Albany.County, 5, 6) %in% c("12", "01", "02"))
+
+# create new columns for year and month
+ALB_winter_months$Year <- as.numeric(substr(ALB_winter_months$X...Albany.County, 1, 4))
+ALB_winter_months$Month <- as.numeric(substr(ALB_winter_months$X...Albany.County, 5, 6))
+
+# ensure the temp column is numeric 
+ALB_winter_months$New.York.Average.Temperature <- as.numeric(ALB_winter_months$New.York.Average.Temperature)
+
+# remove rows with NA values in the temp column
+ALB_winter_months <- ALB_winter_months %>% filter(!is.na(New.York.Average.Temperature))
+
+# create time series 
+ALB_winter_ts <- ts(ALB_winter_months$New.York.Average.Temperature, 
+                   start = c(min(ALB_winter_months$Year), min(ALB_winter_months$Month)), 
+                   frequency = 3)
+
+# decompose time series
+ALB_winter_decomp <- decompose(ALB_winter_ts)
+
+# plot decomposition
+plot(ALB_winter_decomp)
+
+# Albany County regression between winter temp and heavy snow occurences
+# extract month from the BEGIN_DATE column
+Albany_County$Month <- month(Albany_County$BEGIN_DATE)
+
+# filter for winter months (Dec-Feb) and count occurrences per month
+ALB_snow_events_winter <- Albany_County %>%
+  filter(Month %in% c(12, 1, 2)) %>%
+  group_by(Year, Month) %>%
+  summarize(ALB_snow_count = n())  
+
+# merge the winter temperature time series with the snow event counts
+ALB_merged_data <- left_join(ALB_winter_months, ALB_snow_events_winter, by = c("Year", "Month"))
+
+# log-transform temperature
+ALB_merged_data$log_temperature <- log(ALB_merged_data$New.York.Average.Temperature)
+
+# regression with log-transformed temperature
+ALB_model <- lm(ALB_snow_count ~ New.York.Average.Temperature, data = ALB_merged_data)
+
+# summarize model
+summary(ALB_model)
 
 # Oneida County winter average temperature time series
 # filter for winter months (Dec to Feb)
@@ -119,20 +164,20 @@ plot(ON_winter_decomp)
 Oneida_County$Month <- month(Oneida_County$BEGIN_DATE)
 
 # filter for winter months (Dec-Feb) and count occurrences per month
-snow_events_winter <- Oneida_County %>%
+ON_snow_events_winter <- Oneida_County %>%
   filter(Month %in% c(12, 1, 2)) %>%
   group_by(Year, Month) %>%
-  summarize(snow_count = n())  
+  summarize(ON_snow_count = n())  
 
 # merge the winter temperature time series with the snow event counts
-ON_merged_data <- left_join(ON_winter_months, snow_events_winter, by = c("Year", "Month"))
+ON_merged_data <- left_join(ON_winter_months, ON_snow_events_winter, by = c("Year", "Month"))
 
 # log-transform temperature
-merged_data$log_temperature <- log(merged_data$New.York.Average.Temperature)
+ON_merged_data$log_temperature <- log(ON_merged_data$New.York.Average.Temperature)
 
 # regression with log-transformed temperature
-model <- lm(snow_count ~ New.York.Average.Temperature, data = merged_data)
+ON_model <- lm(ON_snow_count ~ New.York.Average.Temperature, data = ON_merged_data)
 
 # summarize model
-summary(model)
+summary(ON_model)
 
