@@ -5,6 +5,7 @@ Suffolk_County <- read.csv("/cloud/project/Suffolk-County-Heavy-Snow-Data.csv")
 
 Albany_County.Temp <- read.csv("/cloud/project/Albany_County.Temp.csv")
 Oneida_County.Temp <- read.csv("/cloud/project/Oneida_County.Temp.csv")
+Suffolk_County.Temp <- read.csv("/cloud/project/Suffolk_County.Temp.csv")
 
 # install packages
 install.packages(c("dplyr", "lubridate", "ggplot2", "forecast", "tidyverse"))
@@ -64,10 +65,10 @@ ggplot(data = ONyearly_snowfall, aes(x = Year, y = Occurrences)) +
 
 # plot heavy snowfall occurence trends over time in Suffolk County
 # convert date column to date type
-Suffolk_County_WS$BEGIN_DATE <- mdy(Suffolk_County_WS$BEGIN_DATE)
+Suffolk_County$BEGIN_DATE <- mdy(Suffolk_County$BEGIN_DATE)
 
 # extract year from date column
-Suffolk_County_WS$Year <- year(Suffolk_County$BEGIN_DATE)
+Suffolk_County$Year <- year(Suffolk_County$BEGIN_DATE)
 
 # group by year and count occurrences
 SUyearly_snowfall <- Suffolk_County %>%
@@ -84,8 +85,9 @@ ggplot(data = SUyearly_snowfall, aes(x = Year, y = Occurrences)) +
     y = "Occurrences"
   ) +
   theme_minimal()
-###################
-# Albany County winter average temperature time series
+# end of plots for heavy snow occurrences #
+
+# Albany County winter average temperature time series and decomposition
 # filter for winter months (Dec to Feb)
 ALB_winter_months <- Albany_County.Temp %>%
   filter(substr(X...Albany.County, 5, 6) %in% c("12", "01", "02"))
@@ -110,8 +112,9 @@ ALB_winter_decomp <- decompose(ALB_winter_ts)
 
 # plot decomposition
 plot(ALB_winter_decomp)
+# end of Albany County time series and decomposition #
 
-# Albany County regression between winter temp and heavy snow occurences
+# Albany County regression between winter temp and heavy snow occurrences
 # extract month from the BEGIN_DATE column
 Albany_County$Month <- month(Albany_County$BEGIN_DATE)
 
@@ -132,8 +135,9 @@ ALB_model <- lm(ALB_snow_count ~ New.York.Average.Temperature, data = ALB_merged
 
 # summarize model
 summary(ALB_model)
+# end of Albany County regression #
 
-# Oneida County winter average temperature time series
+# Oneida County winter average temperature time series and decomposition
 # filter for winter months (Dec to Feb)
 ON_winter_months <- Oneida_County.Temp %>%
   filter(substr(X...Oneida.County, 5, 6) %in% c("12", "01", "02"))
@@ -158,8 +162,9 @@ ON_winter_decomp <- decompose(ON_winter_ts)
 
 # plot decomposition
 plot(ON_winter_decomp)
+# end of Oneida County time series and decomposition #
 
-# Oneida County regression between winter temp and heavy snow occurences
+# Oneida County regression between winter temp and heavy snow occurrences
 # extract month from the BEGIN_DATE column
 Oneida_County$Month <- month(Oneida_County$BEGIN_DATE)
 
@@ -180,4 +185,56 @@ ON_model <- lm(ON_snow_count ~ New.York.Average.Temperature, data = ON_merged_da
 
 # summarize model
 summary(ON_model)
+# end of Oneida County regression #
+
+# Suffolk County winter average temperature time series and decomposition
+# filter for winter months (Dec to Feb)
+SU_winter_months <- Suffolk_County.Temp %>%
+  filter(substr(X...Suffolk.County, 5, 6) %in% c("12", "01", "02"))
+
+# create new columns for year and month
+SU_winter_months$Year <- as.numeric(substr(SU_winter_months$X...Suffolk.County, 1, 4))
+SU_winter_months$Month <- as.numeric(substr(SU_winter_months$X...Suffolk.County, 5, 6))
+
+# ensure the temp column is numeric 
+SU_winter_months$New.York.Average.Temperature <- as.numeric(SU_winter_months$New.York.Average.Temperature)
+
+# remove rows with NA values in the temp column
+SU_winter_months <- SU_winter_months %>% filter(!is.na(New.York.Average.Temperature))
+
+# create time series 
+SU_winter_ts <- ts(SU_winter_months$New.York.Average.Temperature, 
+                   start = c(min(SU_winter_months$Year), min(SU_winter_months$Month)), 
+                   frequency = 3)
+
+# decompose time series
+SU_winter_decomp <- decompose(SU_winter_ts)
+
+# plot decomposition
+plot(SU_winter_decomp)
+# end of Suffolk County time series and decomposition #
+
+# Suffolk County regression between winter temp and heavy snow occurrences
+# extract month from the BEGIN_DATE column
+Suffolk_County$Month <- month(Suffolk_County$BEGIN_DATE)
+
+# filter for winter months (Dec-Feb) and count occurrences per month
+SU_snow_events_winter <- Suffolk_County %>%
+  filter(Month %in% c(12, 1, 2)) %>%
+  group_by(Year, Month) %>%
+  summarize(SU_snow_count = n())  
+
+# merge the winter temperature time series with the snow event counts
+SU_merged_data <- left_join(SU_winter_months, SU_snow_events_winter, by = c("Year", "Month"))
+
+# log-transform temperature
+SU_merged_data$log_temperature <- log(SU_merged_data$New.York.Average.Temperature)
+
+# regression with log-transformed temperature
+SU_model <- lm(SU_snow_count ~ New.York.Average.Temperature, data = SU_merged_data)
+
+# summarize model
+summary(SU_model)
+# end of Suffolk County regression #
+
 
