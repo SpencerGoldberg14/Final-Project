@@ -18,7 +18,7 @@ library(tidyverse)
 
 # plot heavy snowfall occurrence trends over time by county
 # plot heavy snowfall occurrence trends over time in Albany County
-# convert date column to date type
+# convert date column 
 Albany_County$BEGIN_DATE <- mdy(Albany_County$BEGIN_DATE)
 
 # extract year from date column
@@ -40,15 +40,15 @@ ggplot(data = ALByearly_snowfall, aes(x = Year, y = Occurrences)) +
   ) +
   theme_minimal()
 
-# plot heavy snowfall occurence trends over time in Oneida County
+# plot heavy snowfall occurrence trends over time in Oneida County
 # convert date column to date type
-Oneida_County$BEGIN_DATE <- ymd(Oneida_County$BEGIN_DATE)
+Oneida_County$BEGIN_DATE <- mdy(Oneida_County$BEGIN_DATE)
 
 # extract year from date column
 Oneida_County$Year <- year(Oneida_County$BEGIN_DATE)
 
 # group by year and count occurrences
-ON_yearly_snowfall <- Oneida_County %>%
+ONyearly_snowfall <- Oneida_County %>%
   group_by(Year) %>%
   summarize(Occurrences = n())
 
@@ -63,7 +63,7 @@ ggplot(data = ONyearly_snowfall, aes(x = Year, y = Occurrences)) +
   ) +
   theme_minimal()
 
-# plot heavy snowfall occurence trends over time in Suffolk County
+# plot heavy snowfall occurrence trends over time in Suffolk County
 # convert date column to date type
 Suffolk_County$BEGIN_DATE <- mdy(Suffolk_County$BEGIN_DATE)
 
@@ -85,9 +85,9 @@ ggplot(data = SUyearly_snowfall, aes(x = Year, y = Occurrences)) +
     y = "Occurrences"
   ) +
   theme_minimal()
-# end of plots for heavy snow occurrences #
+# end of plots for heavy snowfall occurrences #
 
-# Albany County winter average temperature time series and decomposition
+# Albany County winter average temperature time series  and decomposition
 # filter for winter months (Dec to Feb)
 ALB_winter_months <- Albany_County.Temp %>%
   filter(substr(X...Albany.County, 5, 6) %in% c("12", "01", "02"))
@@ -112,9 +112,15 @@ ALB_winter_decomp <- decompose(ALB_winter_ts)
 
 # plot decomposition
 plot(ALB_winter_decomp)
+
+# extract and plot the trend component
+trend_component <- ALB_winter_decomp$trend
+plot(trend_component, type = "l", 
+     main = "Trend Component of Albany County Winter Average Temperature (Dec-Feb)",
+     xlab = "Time", ylab = "Trend Temperature")
 # end of Albany County time series and decomposition #
 
-# Albany County regression between winter temp and heavy snow occurrences
+# Albany County regression between winter temp and heavy snowfall occurrences
 # extract month from the BEGIN_DATE column
 Albany_County$Month <- month(Albany_County$BEGIN_DATE)
 
@@ -124,7 +130,7 @@ ALB_snow_events_winter <- Albany_County %>%
   group_by(Year, Month) %>%
   summarize(ALB_snow_count = n())  
 
-# merge the winter temperature time series with the snow event counts
+# merge the winter temperature time series with the snowfall count
 ALB_merged_data <- left_join(ALB_winter_months, ALB_snow_events_winter, by = c("Year", "Month"))
 
 # log-transform temperature
@@ -162,9 +168,15 @@ ON_winter_decomp <- decompose(ON_winter_ts)
 
 # plot decomposition
 plot(ON_winter_decomp)
+
+# extract and plot the trend component
+trend_component <- ON_winter_decomp$trend
+plot(trend_component, type = "l", 
+     main = "Trend Component of Oneida County Winter Average Temperature (Dec-Feb)",
+     xlab = "Time", ylab = "Trend Temperature")
 # end of Oneida County time series and decomposition #
 
-# Oneida County regression between winter temp and heavy snow occurrences
+# Oneida County regression between winter temp and heavy snowfall occurrences
 # extract month from the BEGIN_DATE column
 Oneida_County$Month <- month(Oneida_County$BEGIN_DATE)
 
@@ -174,7 +186,7 @@ ON_snow_events_winter <- Oneida_County %>%
   group_by(Year, Month) %>%
   summarize(ON_snow_count = n())  
 
-# merge the winter temperature time series with the snow event counts
+# merge the winter temperature time series with the snowfall count
 ON_merged_data <- left_join(ON_winter_months, ON_snow_events_winter, by = c("Year", "Month"))
 
 # log-transform temperature
@@ -212,9 +224,15 @@ SU_winter_decomp <- decompose(SU_winter_ts)
 
 # plot decomposition
 plot(SU_winter_decomp)
+
+# extract and plot the trend component
+trend_component <- SU_winter_decomp$trend
+plot(trend_component, type = "l", 
+     main = "Trend Component of Suffolk County Winter Average Temperature (Dec-Feb)",
+     xlab = "Time", ylab = "Trend Temperature")
 # end of Suffolk County time series and decomposition #
 
-# Suffolk County regression between winter temp and heavy snow occurrences
+# Suffolk County regression between winter temp and heavy snowfall occurrences
 # extract month from the BEGIN_DATE column
 Suffolk_County$Month <- month(Suffolk_County$BEGIN_DATE)
 
@@ -224,7 +242,7 @@ SU_snow_events_winter <- Suffolk_County %>%
   group_by(Year, Month) %>%
   summarize(SU_snow_count = n())  
 
-# merge the winter temperature time series with the snow event counts
+# merge the winter temperature time series with the snowfall count
 SU_merged_data <- left_join(SU_winter_months, SU_snow_events_winter, by = c("Year", "Month"))
 
 # log-transform temperature
@@ -236,5 +254,3 @@ SU_model <- lm(SU_snow_count ~ New.York.Average.Temperature, data = SU_merged_da
 # summarize model
 summary(SU_model)
 # end of Suffolk County regression #
-
-
